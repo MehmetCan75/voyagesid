@@ -1,0 +1,67 @@
+.container {
+    height: 10vh;
+    width: 100%;
+    background-image: url('./Pictures/photo-1549849171-09f62448709e.jpeg');
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.voyagesID {
+    color: white;
+    margin-left: 2vw;
+    font-family: 'Lobster';
+}
+
+.airplane {
+    background-image: url('./Pictures/airplane\ \(1\).png');
+    object-fit: contain;
+    height: 5vh;
+    width: 10vw;
+    background-repeat: no-repeat;
+    margin-left: 1vw;
+}
+
+.planeAnimation {
+    background-image: url('./Pictures/airplane\ \(2\).png');
+    height: 9vh;
+    width: 5vw;
+    background-repeat: no-repeat;
+    background-size: contain;       
+    animation-duration: 30s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes slidein {
+    0% {
+      margin-left: 0%;
+    }
+  
+    100% {
+      margin-left: 75vw;
+    }
+  }
+
+@media screen and (max-width:500px) {
+    @keyframes slidein {
+        0% {
+          margin-left: 0%;
+        }
+      
+        100% {
+          margin-left: 50vw;
+        }
+      }
+      .planeAnimation {
+        background-image: url('./Pictures/airplane\ \(2\).png');
+        height: 7vh;
+        width: 11vw;
+        background-repeat: no-repeat;
+        background-size: cover;   
+        animation-duration: 10s;
+        animation-name: slidein;
+        animation-iteration-count: infinite;
+    }
+}

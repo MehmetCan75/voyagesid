@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cities {
+    border: 2px solid rgb(0, 119, 255);
+    padding: 11px;
+    border-radius: 10px;
+    background-color: rgb(0, 119, 255);
+    color: white;
+    font-weight: bold;
+    margin-top: 2vh;
+}
+
+.cities:hover {
+    background-color: rgb(248, 120, 0);
+    border: rgb(248, 120, 0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.menu {
+    margin-top: -4vh;
+    height: 92vh;
+    width: auto;
+    background-image: url('./photo-1487349384428-12b47aca925e.jpeg');
+    background-size: 100% 110%;
+    justify-content: space-evenly;
+
+}
+
+.BigTitle {
+    margin-left: 7vw;
+}
+
+.Title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Lobster';
+}
+
+.followUs {
+    font-family: 'Lobster';
+    margin-top: 4vh;
+    font-size: 2vw;
+}
+
+.VID {
+    margin-top: 4vh;
+    margin-bottom: -4vh;
+    padding-bottom: -3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lobster';
+    font-size: 4vw;
+    margin-left: 2vw;
+}
+
+.PRS {
+    background-image: url('../Cities//Pictures/beach.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.contLink {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.link {
+    max-width: 100%;
+    max-height: 100%;
+    width: 50px;
+    height: 50px;
+    background-image: url('../Cities//Pictures/instagram\ \(1\).png');
+    background-size: cover;
+    color: transparent;
+}
+
+@media screen and (max-width: 500px) {
+    .menu {
+        height: 92vh;
+        width: auto;
+        background-image: url('./photo-1487349384428-12b47aca925e.jpeg');
+        background-size: cover;
+    }
+    .BigTitle {
+        font-size: 11vw;
+    }
+    .Title {
+        font-size: 5vw;
+    }
+    .followUs {
+        font-family: 'Lobster';
+        margin-top: 4vh;
+        font-size: 4vw;
+    }
+}
+
