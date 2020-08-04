@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/voyagesid/static/css/main.1d9b8459.chunk.css",
+    "main.css": "/voyagesid/static/css/main.7590baaa.chunk.css",
     "main.js": "/voyagesid/static/js/main.60dbe78c.chunk.js",
     "main.js.map": "/voyagesid/static/js/main.60dbe78c.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
@@ -8,9 +8,9 @@
     "static/js/2.6fb69059.chunk.js": "/voyagesid/static/js/2.6fb69059.chunk.js",
     "static/js/2.6fb69059.chunk.js.map": "/voyagesid/static/js/2.6fb69059.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.2d00cbbab0d87820009e7ea53360d401.js": "/voyagesid/precache-manifest.2d00cbbab0d87820009e7ea53360d401.js",
+    "precache-manifest.de6b7cbfa8c31353c0af802d252b2a4e.js": "/voyagesid/precache-manifest.de6b7cbfa8c31353c0af802d252b2a4e.js",
     "service-worker.js": "/voyagesid/service-worker.js",
-    "static/css/main.1d9b8459.chunk.css.map": "/voyagesid/static/css/main.1d9b8459.chunk.css.map",
+    "static/css/main.7590baaa.chunk.css.map": "/voyagesid/static/css/main.7590baaa.chunk.css.map",
     "static/js/2.6fb69059.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6fb69059.chunk.js.LICENSE.txt",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/lisboa.jpg": "/voyagesid/static/media/lisboa.909f5505.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6fb69059.chunk.js",
-    "static/css/main.1d9b8459.chunk.css",
+    "static/css/main.7590baaa.chunk.css",
     "static/js/main.60dbe78c.chunk.js"
   ]
 }
