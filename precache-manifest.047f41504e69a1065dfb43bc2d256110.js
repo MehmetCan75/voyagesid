@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf46b25dba1b577b8c95f11c057acfb3",
+    "revision": "88c2fe8a1e66204d846fc0fc16644d5b",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "9d848342292d7722ab17",
+    "revision": "6a23ef6d5eb3cad1b12a",
     "url": "/voyagesid/static/css/main.7590baaa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6fb69059.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d848342292d7722ab17",
-    "url": "/voyagesid/static/js/main.60dbe78c.chunk.js"
+    "revision": "6a23ef6d5eb3cad1b12a",
+    "url": "/voyagesid/static/js/main.a2237ca5.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
@@ -28,16 +28,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
   },
   {
+    "revision": "4775be1fe49e70aa9cce55d2bbc8e01e",
+    "url": "/voyagesid/static/media/faro.4775be1f.jpg"
+  },
+  {
+    "revision": "7efbd9ede3e372a07213c5f45f6fc239",
+    "url": "/voyagesid/static/media/heraklion.7efbd9ed.jpg"
+  },
+  {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
   },
   {
-    "revision": "909f55051e5391eb55e386bc0c826afa",
-    "url": "/voyagesid/static/media/lisboa.909f5505.jpg"
+    "revision": "74cd12a346d0a1c5705bc1eace2dec27",
+    "url": "/voyagesid/static/media/marrakech.74cd12a3.jpg"
   },
   {
-    "revision": "e7e9ae0f91244b76283c9fc030df898f",
-    "url": "/voyagesid/static/media/naples.e7e9ae0f.jpg"
+    "revision": "3ec9d0a862ec03756258c758af6ff8d3",
+    "url": "/voyagesid/static/media/palerme.3ec9d0a8.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
@@ -46,13 +54,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f53112799a9b594e2ab4ddd4fd7555c",
     "url": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
-  },
-  {
-    "revision": "a70d773c42bec2e14c420ea03f6cf5e2",
-    "url": "/voyagesid/static/media/photo-1558782630-3dff4371ad7e.a70d773c.jpeg"
-  },
-  {
-    "revision": "2ff50ffc555b62c687026b6be4a0fc12",
-    "url": "/voyagesid/static/media/split.2ff50ffc.jpg"
   }
 ]);

@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7590baaa.chunk.css",
-    "main.js": "/voyagesid/static/js/main.60dbe78c.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.60dbe78c.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.a2237ca5.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.a2237ca5.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.6fb69059.chunk.js": "/voyagesid/static/js/2.6fb69059.chunk.js",
     "static/js/2.6fb69059.chunk.js.map": "/voyagesid/static/js/2.6fb69059.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.de6b7cbfa8c31353c0af802d252b2a4e.js": "/voyagesid/precache-manifest.de6b7cbfa8c31353c0af802d252b2a4e.js",
+    "precache-manifest.047f41504e69a1065dfb43bc2d256110.js": "/voyagesid/precache-manifest.047f41504e69a1065dfb43bc2d256110.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7590baaa.chunk.css.map": "/voyagesid/static/css/main.7590baaa.chunk.css.map",
     "static/js/2.6fb69059.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6fb69059.chunk.js.LICENSE.txt",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/lisboa.jpg": "/voyagesid/static/media/lisboa.909f5505.jpg",
-    "static/media/naples.jpg": "/voyagesid/static/media/naples.e7e9ae0f.jpg",
-    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
-    "static/media/photo-1558782630-3dff4371ad7e.jpeg": "/voyagesid/static/media/photo-1558782630-3dff4371ad7e.a70d773c.jpeg",
-    "static/media/split.jpg": "/voyagesid/static/media/split.2ff50ffc.jpg"
+    "static/media/faro.jpg": "/voyagesid/static/media/faro.4775be1f.jpg",
+    "static/media/heraklion.jpg": "/voyagesid/static/media/heraklion.7efbd9ed.jpg",
+    "static/media/marrakech.jpg": "/voyagesid/static/media/marrakech.74cd12a3.jpg",
+    "static/media/palerme.jpg": "/voyagesid/static/media/palerme.3ec9d0a8.jpg",
+    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6fb69059.chunk.js",
     "static/css/main.7590baaa.chunk.css",
-    "static/js/main.60dbe78c.chunk.js"
+    "static/js/main.a2237ca5.chunk.js"
   ]
 }
