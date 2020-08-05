@@ -14,8 +14,8 @@ import CardHeader from './Card/CardHeader'
      dd: "26/08/20",
      dr: "02/09/20",
      hd: "21h05",
-     hr: "19h10",
-     prix: "55€",
+     hr: "16h25",
+     prix: "51€",
      image: require('./Pictures/marrakech.jpg'),
      link : 'https://www.skyscanner.fr/transport/vols/pari/rak/200826/200902/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27546125&inboundaltsenabled=false&infants=0&originentityid=27539733&outboundaltsenabled=false&preferdirects=false&preferflexible=false&ref=home&rtn=1'
    }
