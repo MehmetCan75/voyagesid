@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5124e6f458f7fad03ded9359ccc481df",
+    "revision": "749cb1297f013e0c8b0182756239ba36",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "a0f73f64bed9cffdaf1e",
+    "revision": "e9ecf30371175f8071f3",
     "url": "/voyagesid/static/css/main.7590baaa.chunk.css"
   },
   {
@@ -16,32 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6fb69059.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0f73f64bed9cffdaf1e",
-    "url": "/voyagesid/static/js/main.ecc9297f.chunk.js"
+    "revision": "e9ecf30371175f8071f3",
+    "url": "/voyagesid/static/js/main.7cec9377.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "abe8b91b0860f543b0dbb401ccf23a6a",
-    "url": "/voyagesid/static/media/athenes.abe8b91b.jpg"
+    "revision": "d9ac95e70d80dd4fffad80319bcdac2b",
+    "url": "/voyagesid/static/media/bastia.d9ac95e7.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
   },
   {
-    "revision": "e3d0218eeda79cade832d761dd1c832b",
-    "url": "/voyagesid/static/media/corfou.e3d0218e.jpg"
-  },
-  {
-    "revision": "7efbd9ede3e372a07213c5f45f6fc239",
-    "url": "/voyagesid/static/media/heraklion.7efbd9ed.jpg"
+    "revision": "32407fc3652384766e8241d18c8ecc4d",
+    "url": "/voyagesid/static/media/geneve.32407fc3.jpg"
   },
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "c21aa787cea02bcdfa1cfdb5124c5503",
+    "url": "/voyagesid/static/media/milan.c21aa787.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   {
-    "revision": "514f26bad6ec912b440eac26e0b43da2",
-    "url": "/voyagesid/static/media/rhodes.514f26ba.jpg"
+    "revision": "590a5b3946d825ac9f6ed41f0127f7b9",
+    "url": "/voyagesid/static/media/prague.590a5b39.jpg"
   }
 ]);
