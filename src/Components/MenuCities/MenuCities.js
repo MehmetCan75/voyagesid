@@ -24,8 +24,7 @@ const MenuCities = (props) => {
       <h1 className="Title" value="">
         Vous ne savez pas où aller ?<br />
         Vous avez un budget restreint ? <br />
-        On vous informe de vols pas chers au départ de plusieurs villes
-        françaises ! 1 offre par jour !
+        On vous informe de vols pas chers au départ de Paris et Marseille ! 1 offre par jour !
       </h1>
       <div className="">
         <div className="cont">
