@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/voyagesid/static/css/main.7590baaa.chunk.css",
-    "main.js": "/voyagesid/static/js/main.539cbeec.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.539cbeec.chunk.js.map",
+    "main.css": "/voyagesid/static/css/main.980093c2.chunk.css",
+    "main.js": "/voyagesid/static/js/main.85654c84.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.85654c84.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.5efc2ae3.chunk.js": "/voyagesid/static/js/2.5efc2ae3.chunk.js",
-    "static/js/2.5efc2ae3.chunk.js.map": "/voyagesid/static/js/2.5efc2ae3.chunk.js.map",
+    "static/js/2.d03734f8.chunk.js": "/voyagesid/static/js/2.d03734f8.chunk.js",
+    "static/js/2.d03734f8.chunk.js.map": "/voyagesid/static/js/2.d03734f8.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.a11b287f9f1a3401ae132f68808c600a.js": "/voyagesid/precache-manifest.a11b287f9f1a3401ae132f68808c600a.js",
+    "precache-manifest.cddbc0d87ebfeaec44378e797f4d184a.js": "/voyagesid/precache-manifest.cddbc0d87ebfeaec44378e797f4d184a.js",
     "service-worker.js": "/voyagesid/service-worker.js",
-    "static/css/main.7590baaa.chunk.css.map": "/voyagesid/static/css/main.7590baaa.chunk.css.map",
-    "static/js/2.5efc2ae3.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.5efc2ae3.chunk.js.LICENSE.txt",
+    "static/css/main.980093c2.chunk.css.map": "/voyagesid/static/css/main.980093c2.chunk.css.map",
+    "static/js/2.d03734f8.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/faro.jpg": "/voyagesid/static/media/faro.4775be1f.jpg",
     "static/media/marrakech.jpg": "/voyagesid/static/media/marrakech.74cd12a3.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.5efc2ae3.chunk.js",
-    "static/css/main.7590baaa.chunk.css",
-    "static/js/main.539cbeec.chunk.js"
+    "static/js/2.d03734f8.chunk.js",
+    "static/css/main.980093c2.chunk.css",
+    "static/js/main.85654c84.chunk.js"
   ]
 }
