@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96a205879b45ec0f3d350730027f028c",
+    "revision": "48d91ee94b4123e86daf25d3edb0ab6b",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "712e10bbdc648074b700",
+    "revision": "ca3924db910cb119efdb",
     "url": "/voyagesid/static/css/main.980093c2.chunk.css"
   },
   {
@@ -16,28 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "712e10bbdc648074b700",
-    "url": "/voyagesid/static/js/main.85654c84.chunk.js"
+    "revision": "ca3924db910cb119efdb",
+    "url": "/voyagesid/static/js/main.d13b3c80.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
+    "revision": "f872d132fa316e4eca6540bbc3720654",
+    "url": "/voyagesid/static/media/Oran.f872d132.jpg"
+  },
+  {
+    "revision": "a022b3caac5aa646d98c34353e29fbd0",
+    "url": "/voyagesid/static/media/Oslo.a022b3ca.jpg"
+  },
+  {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
   },
   {
-    "revision": "4775be1fe49e70aa9cce55d2bbc8e01e",
-    "url": "/voyagesid/static/media/faro.4775be1f.jpg"
-  },
-  {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
-  },
-  {
-    "revision": "74cd12a346d0a1c5705bc1eace2dec27",
-    "url": "/voyagesid/static/media/marrakech.74cd12a3.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
