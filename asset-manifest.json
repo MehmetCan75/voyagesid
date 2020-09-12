@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.980093c2.chunk.css",
-    "main.js": "/voyagesid/static/js/main.d13b3c80.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.d13b3c80.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.9c144d0a.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.9c144d0a.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.d03734f8.chunk.js": "/voyagesid/static/js/2.d03734f8.chunk.js",
     "static/js/2.d03734f8.chunk.js.map": "/voyagesid/static/js/2.d03734f8.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.ee8c80cf8761d511285317cf4112bc76.js": "/voyagesid/precache-manifest.ee8c80cf8761d511285317cf4112bc76.js",
+    "precache-manifest.2cca2347192d4282f00ccdb8ff1307a5.js": "/voyagesid/precache-manifest.2cca2347192d4282f00ccdb8ff1307a5.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.980093c2.chunk.css.map": "/voyagesid/static/css/main.980093c2.chunk.css.map",
     "static/js/2.d03734f8.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt",
-    "static/media/Oran.jpg": "/voyagesid/static/media/Oran.f872d132.jpg",
-    "static/media/Oslo.jpg": "/voyagesid/static/media/Oslo.a022b3ca.jpg",
+    "static/media/Stockholm.jpg": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
+    "static/media/malta.jpg": "/voyagesid/static/media/malta.1dfb0f95.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.d03734f8.chunk.js",
     "static/css/main.980093c2.chunk.css",
-    "static/js/main.d13b3c80.chunk.js"
+    "static/js/main.9c144d0a.chunk.js"
   ]
 }
