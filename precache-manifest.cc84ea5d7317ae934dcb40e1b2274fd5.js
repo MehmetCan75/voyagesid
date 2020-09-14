@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8eea4e6297bd5840c1fb82d69c72cf6",
+    "revision": "f3b226791d5b9d525884a590efff4b5e",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "1e8b8154306aa84f799d",
+    "revision": "b7541428485de4462127",
     "url": "/voyagesid/static/css/main.980093c2.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e8b8154306aa84f799d",
-    "url": "/voyagesid/static/js/main.975fe2e2.chunk.js"
+    "revision": "b7541428485de4462127",
+    "url": "/voyagesid/static/js/main.3b352e02.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "9c1dabe1ec32fc463a2f1ab9e329ef9f",
-    "url": "/voyagesid/static/media/Abudhabi.9c1dabe1.jpg"
+    "revision": "5120e4739412282ad0f0a2acd1f61cf6",
+    "url": "/voyagesid/static/media/Copenhague.5120e473.jpg"
   },
   {
-    "revision": "e3ab6e2e58e1baf47dc0136d6cb33df3",
-    "url": "/voyagesid/static/media/Teheran.e3ab6e2e.jpg"
+    "revision": "bd7e2a398aa88baa165fdc744327a758",
+    "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
