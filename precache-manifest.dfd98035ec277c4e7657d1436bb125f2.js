@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3b226791d5b9d525884a590efff4b5e",
+    "revision": "f5fe9798a6672748b9b2df053522f60c",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "b7541428485de4462127",
+    "revision": "18da50a7e3c1b42d6595",
     "url": "/voyagesid/static/css/main.980093c2.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7541428485de4462127",
-    "url": "/voyagesid/static/js/main.3b352e02.chunk.js"
+    "revision": "18da50a7e3c1b42d6595",
+    "url": "/voyagesid/static/js/main.32351c85.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "5120e4739412282ad0f0a2acd1f61cf6",
-    "url": "/voyagesid/static/media/Copenhague.5120e473.jpg"
+    "revision": "0583d6d9bfb7aaeadc416eadbd1fbd4a",
+    "url": "/voyagesid/static/media/Madrid.0583d6d9.jpg"
   },
   {
-    "revision": "bd7e2a398aa88baa165fdc744327a758",
-    "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+    "revision": "c56f446cc1354960089dc7b49c1d7207",
+    "url": "/voyagesid/static/media/Tanger.c56f446c.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
