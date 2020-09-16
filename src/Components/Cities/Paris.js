@@ -7,17 +7,17 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Madrid",
+     destination: "Copenhague",
      vd: "Paris",
-     ad: "ORY",
-     ar: "ORY",
-     dd: "02/10/20",
-     dr: "05/10/20",
-     hd: "20h10",
-     hr: "17h20",
-     prix: "59€",
-     image: require('./Pictures/Madrid.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/madr/201002/201005/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009151039*D*BVA*MAD*20201002*opfr*FR%7C202009151039*D*MAD*BVA*20201005*opfr*FR&qp_prevCurrency=EUR&qp_prevPrice=34&qp_prevProvider=ins_month&rtn=1'
+     ad: "CDG",
+     ar: "CDG",
+     dd: "08/01/21",
+     dr: "11/01/21",
+     hd: "18h05",
+     hr: "09h30",
+     prix: "68€",
+     image: require('./Pictures/Copenhague.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/cope/210108/210111/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009141952*D*CDG*CPH*20210108*t2fr*EZY%7C202009141952*D*CPH*CDG*20210111*t2fr*EZY&qp_prevCurrency=EUR&qp_prevPrice=71&qp_prevProvider=ins_month&rtn=1'
    }
 
 
