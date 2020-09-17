@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38adb3f8a069ee261425256d93cd5078",
+    "revision": "2b52115ba17c7e7450537e5f4d641429",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "11aa2a8db58652cf5b88",
+    "revision": "f5255ce653127a9b2d7f",
     "url": "/voyagesid/static/css/main.980093c2.chunk.css"
   },
   {
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11aa2a8db58652cf5b88",
-    "url": "/voyagesid/static/js/main.e315f788.chunk.js"
+    "revision": "f5255ce653127a9b2d7f",
+    "url": "/voyagesid/static/js/main.b92cfcd3.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "5120e4739412282ad0f0a2acd1f61cf6",
-    "url": "/voyagesid/static/media/Copenhague.5120e473.jpg"
+    "revision": "13c7e868f1393738e41aac802a713205",
+    "url": "/voyagesid/static/media/Bologne.13c7e868.jpg"
+  },
+  {
+    "revision": "da68c3ef112414cd4cc5772c9a47106a",
+    "url": "/voyagesid/static/media/Seville.da68c3ef.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -42,9 +46,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f53112799a9b594e2ab4ddd4fd7555c",
     "url": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
-  },
-  {
-    "revision": "590a5b3946d825ac9f6ed41f0127f7b9",
-    "url": "/voyagesid/static/media/prague.590a5b39.jpg"
   }
 ]);

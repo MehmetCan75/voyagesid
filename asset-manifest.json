@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.980093c2.chunk.css",
-    "main.js": "/voyagesid/static/js/main.e315f788.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.e315f788.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.b92cfcd3.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.b92cfcd3.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.d03734f8.chunk.js": "/voyagesid/static/js/2.d03734f8.chunk.js",
     "static/js/2.d03734f8.chunk.js.map": "/voyagesid/static/js/2.d03734f8.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.e7dc75c407d0233650c781cd955e6477.js": "/voyagesid/precache-manifest.e7dc75c407d0233650c781cd955e6477.js",
+    "precache-manifest.2640a468b59b51ce00d92292a67ad434.js": "/voyagesid/precache-manifest.2640a468b59b51ce00d92292a67ad434.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.980093c2.chunk.css.map": "/voyagesid/static/css/main.980093c2.chunk.css.map",
     "static/js/2.d03734f8.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt",
-    "static/media/Copenhague.jpg": "/voyagesid/static/media/Copenhague.5120e473.jpg",
+    "static/media/Bologne.jpg": "/voyagesid/static/media/Bologne.13c7e868.jpg",
+    "static/media/Seville.jpg": "/voyagesid/static/media/Seville.da68c3ef.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
-    "static/media/prague.jpg": "/voyagesid/static/media/prague.590a5b39.jpg"
+    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.d03734f8.chunk.js",
     "static/css/main.980093c2.chunk.css",
-    "static/js/main.e315f788.chunk.js"
+    "static/js/main.b92cfcd3.chunk.js"
   ]
 }
