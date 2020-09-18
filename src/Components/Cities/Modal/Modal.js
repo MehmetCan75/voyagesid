@@ -135,7 +135,7 @@ export default class ExampleApp extends Component {
                 marginTop: "2vw",
               }}
             >
-              {this.state.Merci ? "Merci" : null}
+              {this.state.Merci ? <p style={{fontFamily: "Lobster",color:"white"}}>Merci</p> : null}
             </p>
             <button
               onClick={this.handleCloseModal}
