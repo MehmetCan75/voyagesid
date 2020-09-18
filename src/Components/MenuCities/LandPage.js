@@ -8,6 +8,8 @@ import Marseille from '../Cities/Marseille'
 // import Toulouse from '../Cities/Toulouse'
 import Header from '../Header/Header'
 
+import Modal from "../Cities/Modal/Modal"
+
 
 var Scroll = require('react-scroll');
 var Element = Scroll.Element;
@@ -36,10 +38,12 @@ export default class LandPage extends Component {
     ]
     };
 
+
   render() {
     return (
       <div>
         <Header></Header>
+        <Modal></Modal>
         <MenuCities listRef={this.state.listRef} />
         <Element name='Paris' className="PRS"><Paris></Paris></Element>
         {/* <Element name='Lyon'className="PRS"><Lyon></Lyon></Element> */}

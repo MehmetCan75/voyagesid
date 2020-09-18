@@ -45,7 +45,7 @@ const MenuCities = (props) => {
         <p className="followUs">Suivez-nous sur </p>
         <a href="https://www.instagram.com/voyagesid/?igshid=s0491mkenn9" className="link">p</a>
         </div>
-            <Survey />
+            {/* <Survey /> */}
       </div>
     </div>
   );
