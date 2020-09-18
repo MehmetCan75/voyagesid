@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b52115ba17c7e7450537e5f4d641429",
+    "revision": "2c7cfbba1429e2bbfa04aa4a8862ac27",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "f5255ce653127a9b2d7f",
-    "url": "/voyagesid/static/css/main.980093c2.chunk.css"
+    "revision": "095b5ed212576d01a5bb",
+    "url": "/voyagesid/static/css/main.31fff809.chunk.css"
   },
   {
-    "revision": "e343fec48ee69849a878",
-    "url": "/voyagesid/static/js/2.d03734f8.chunk.js"
+    "revision": "c14dda5c5efb8804ec44",
+    "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.d03734f8.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5255ce653127a9b2d7f",
-    "url": "/voyagesid/static/js/main.b92cfcd3.chunk.js"
+    "revision": "095b5ed212576d01a5bb",
+    "url": "/voyagesid/static/js/main.8478c13e.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da68c3ef112414cd4cc5772c9a47106a",
     "url": "/voyagesid/static/media/Seville.da68c3ef.jpg"
+  },
+  {
+    "revision": "bd7e2a398aa88baa165fdc744327a758",
+    "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
