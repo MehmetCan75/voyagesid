@@ -7,12 +7,15 @@ import "./Modal.css";
 export default class ExampleApp extends Component {
   state = {
     showModal: false,
+    city: "",
+    Merci: "",
+    type: "submit",
+    disabled: false,
   };
 
   handleOpenModal = setTimeout(() => {
     this.setState({ showModal: true });
-    console.log("YES");
-  }, 5000);
+  }, 1000);
 
   handleCloseModal = () => {
     this.setState({ showModal: false });
