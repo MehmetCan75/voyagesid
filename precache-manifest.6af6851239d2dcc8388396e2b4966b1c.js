@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29a59bcaa488556dc346240aff4fa87b",
+    "revision": "39f899406ef4c04e75beae434132761f",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "a330461ba28c7d86ec70",
+    "revision": "502dac1021b991c401a3",
     "url": "/voyagesid/static/css/main.31fff809.chunk.css"
   },
   {
@@ -16,20 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a330461ba28c7d86ec70",
-    "url": "/voyagesid/static/js/main.de0470e4.chunk.js"
+    "revision": "502dac1021b991c401a3",
+    "url": "/voyagesid/static/js/main.8312b9d8.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "8a11e61e7da4828f898c5bf98ed36b61",
-    "url": "/voyagesid/static/media/Bratislava.8a11e61e.jpg"
-  },
-  {
-    "revision": "bcf962244dc3c17d9b5fa789ca58ae03",
-    "url": "/voyagesid/static/media/Istanbul.bcf96224.jpg"
+    "revision": "ceda744ee026b87349fa432ef699ab13",
+    "url": "/voyagesid/static/media/Santorini.ceda744e.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -42,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "74cd12a346d0a1c5705bc1eace2dec27",
+    "url": "/voyagesid/static/media/marrakech.74cd12a3.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
