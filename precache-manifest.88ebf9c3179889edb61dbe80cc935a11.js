@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39f899406ef4c04e75beae434132761f",
+    "revision": "68894e0710b168c8ace4e8fbd1aa955f",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "502dac1021b991c401a3",
+    "revision": "5523231bab9392102557",
     "url": "/voyagesid/static/css/main.31fff809.chunk.css"
   },
   {
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "502dac1021b991c401a3",
-    "url": "/voyagesid/static/js/main.8312b9d8.chunk.js"
+    "revision": "5523231bab9392102557",
+    "url": "/voyagesid/static/js/main.9f210725.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "ceda744ee026b87349fa432ef699ab13",
-    "url": "/voyagesid/static/media/Santorini.ceda744e.jpg"
+    "revision": "eaafa46a00500187d82dd2637d766295",
+    "url": "/voyagesid/static/media/Eindoven.eaafa46a.jpg"
+  },
+  {
+    "revision": "a0c6aa6c08131142211779beff509f0a",
+    "url": "/voyagesid/static/media/Minorque.a0c6aa6c.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -38,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
-  },
-  {
-    "revision": "74cd12a346d0a1c5705bc1eace2dec27",
-    "url": "/voyagesid/static/media/marrakech.74cd12a3.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
