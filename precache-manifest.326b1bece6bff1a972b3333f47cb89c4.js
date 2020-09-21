@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68894e0710b168c8ace4e8fbd1aa955f",
+    "revision": "c440c3926b888b3c5bb237d0a2954f30",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "5523231bab9392102557",
+    "revision": "f02aed1498f55229fd66",
     "url": "/voyagesid/static/css/main.31fff809.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5523231bab9392102557",
-    "url": "/voyagesid/static/js/main.9f210725.chunk.js"
+    "revision": "f02aed1498f55229fd66",
+    "url": "/voyagesid/static/js/main.05d1c418.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "eaafa46a00500187d82dd2637d766295",
-    "url": "/voyagesid/static/media/Eindoven.eaafa46a.jpg"
+    "revision": "75f0675e1342f70a449329e247f89b13",
+    "url": "/voyagesid/static/media/Bucarest.75f0675e.jpg"
   },
   {
-    "revision": "a0c6aa6c08131142211779beff509f0a",
-    "url": "/voyagesid/static/media/Minorque.a0c6aa6c.jpg"
+    "revision": "7acbb05ab4fdd2d43ccae7603856e007",
+    "url": "/voyagesid/static/media/Larnaka.7acbb05a.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
