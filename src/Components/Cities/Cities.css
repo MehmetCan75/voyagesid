@@ -9,7 +9,7 @@
 }
     .card:hover {
       box-shadow: 10px 5px 40px 20px darken(#341cac, 10%);
-      cursor: pointer;
+      /* cursor: pointer; */
 
     }
       .button-primary {
@@ -30,9 +30,11 @@
     font-family: 'Lobster';
     font-weight: 200;
   }
+
   
   .city {
     padding-top: 2vh;
+    font-size: 20px;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -95,4 +97,11 @@
     }
     i{
       padding-right:4px;
+    }
+
+    @media screen and (min-width:1000px) {
+      .city {
+        margin-top:-5vh;
+        font-size: 20px;
+      }
     }

@@ -1,24 +1,21 @@
-import React, { Component } from 'react'
-import MenuCities from './MenuCities'
+import React, { Component } from "react";
+import MenuCities from "./MenuCities";
 
 // COMPONENTS
-import Paris from '../Cities/Paris'
-import Marseille from '../Cities/Marseille'
+import Paris from "../Cities/Paris";
+import Marseille from "../Cities/Marseille";
 // import Lyon from '../Cities/Lyon'
 // import Toulouse from '../Cities/Toulouse'
-import Header from '../Header/Header'
+import Header from "../Header/Header";
 
-import Modal from "../Cities/Modal/Modal"
+import Modal from "../Cities/Modal/Modal";
 
-
-var Scroll = require('react-scroll');
+var Scroll = require("react-scroll");
 var Element = Scroll.Element;
-
-
 
 export default class LandPage extends Component {
   state = {
-      listRef: [     
+    listRef: [
       {
         name: "Paris",
         title: "Paris",
@@ -35,8 +32,8 @@ export default class LandPage extends Component {
       //   name: "Toulouse",
       //   title: "Toulouse",
       // },
-    ]
-    };
+    ],
+  };
 
 
   render() {
@@ -44,12 +41,16 @@ export default class LandPage extends Component {
       <div>
         <Header></Header>
         <Modal></Modal>
-        <MenuCities listRef={this.state.listRef} />
-        <Element name='Paris' className="PRS"><Paris></Paris></Element>
+        <MenuCities listRef={this.state.listRef} lang={this.state.lang} />
+        <Element name="Paris" className="PRS">
+          <Paris></Paris>
+        </Element>
         {/* <Element name='Lyon'className="PRS"><Lyon></Lyon></Element> */}
-        <Element name='Marseille' className="PRS"><Marseille></Marseille></Element>
+        <Element name="Marseille" className="PRS">
+          <Marseille></Marseille>
+        </Element>
         {/* <Element name='Toulouse' className="PRS"><Toulouse></Toulouse></Element> */}
       </div>
-    )
+    );
   }
 }
