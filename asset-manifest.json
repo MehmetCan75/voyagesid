@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/voyagesid/static/css/main.31fff809.chunk.css",
-    "main.js": "/voyagesid/static/js/main.05d1c418.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.05d1c418.chunk.js.map",
+    "main.css": "/voyagesid/static/css/main.1f8538a0.chunk.css",
+    "main.js": "/voyagesid/static/js/main.c3aaa7cd.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.c3aaa7cd.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.8c6aaa53.chunk.js": "/voyagesid/static/js/2.8c6aaa53.chunk.js",
     "static/js/2.8c6aaa53.chunk.js.map": "/voyagesid/static/js/2.8c6aaa53.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.326b1bece6bff1a972b3333f47cb89c4.js": "/voyagesid/precache-manifest.326b1bece6bff1a972b3333f47cb89c4.js",
+    "precache-manifest.446ac3dd693ef9d93fbad72008e5a5e7.js": "/voyagesid/precache-manifest.446ac3dd693ef9d93fbad72008e5a5e7.js",
     "service-worker.js": "/voyagesid/service-worker.js",
-    "static/css/main.31fff809.chunk.css.map": "/voyagesid/static/css/main.31fff809.chunk.css.map",
+    "static/css/main.1f8538a0.chunk.css.map": "/voyagesid/static/css/main.1f8538a0.chunk.css.map",
     "static/js/2.8c6aaa53.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt",
-    "static/media/Bucarest.jpg": "/voyagesid/static/media/Bucarest.75f0675e.jpg",
-    "static/media/Larnaka.jpg": "/voyagesid/static/media/Larnaka.7acbb05a.jpg",
+    "static/media/Koutaissi.jpg": "/voyagesid/static/media/Koutaissi.282b7292.jpg",
+    "static/media/RiodeJaneiro.jpg": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.8c6aaa53.chunk.js",
-    "static/css/main.31fff809.chunk.css",
-    "static/js/main.05d1c418.chunk.js"
+    "static/css/main.1f8538a0.chunk.css",
+    "static/js/main.c3aaa7cd.chunk.js"
   ]
 }

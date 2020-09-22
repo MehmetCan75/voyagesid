@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c440c3926b888b3c5bb237d0a2954f30",
+    "revision": "ae38c71ec06c8725b6d6d7f14d5371ee",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "f02aed1498f55229fd66",
-    "url": "/voyagesid/static/css/main.31fff809.chunk.css"
+    "revision": "398f5d2a0d6f47489da0",
+    "url": "/voyagesid/static/css/main.1f8538a0.chunk.css"
   },
   {
     "revision": "c14dda5c5efb8804ec44",
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f02aed1498f55229fd66",
-    "url": "/voyagesid/static/js/main.05d1c418.chunk.js"
+    "revision": "398f5d2a0d6f47489da0",
+    "url": "/voyagesid/static/js/main.c3aaa7cd.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "75f0675e1342f70a449329e247f89b13",
-    "url": "/voyagesid/static/media/Bucarest.75f0675e.jpg"
+    "revision": "282b72927639fd47f113f0c1d7765456",
+    "url": "/voyagesid/static/media/Koutaissi.282b7292.jpg"
   },
   {
-    "revision": "7acbb05ab4fdd2d43ccae7603856e007",
-    "url": "/voyagesid/static/media/Larnaka.7acbb05a.jpg"
+    "revision": "8f40b4aa40e1823c0ce9ba0bef125516",
+    "url": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
