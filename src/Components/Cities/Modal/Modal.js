@@ -75,7 +75,7 @@ export default class ExampleApp extends Component {
             >
               Quelle est votre destination préférée?
             </h2>
-            <h4 class="card-header--title" style={{position: "absolute", top: "10px", left: "5px" }}>Voyages ID</h4>
+            <h4 className="card-header--title" style={{position: "absolute", top: "10px", left: "5px" }}>Voyages ID</h4>
             <form
               onSubmit={this.handleSubmit}
               className="form"

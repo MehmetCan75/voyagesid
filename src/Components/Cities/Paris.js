@@ -7,18 +7,18 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Rio de Janeiro",
-     flag: require('./Flag/brazil.png'),
+     destination: "San Juan",
+     flag: require('./Flag/puertoRico.png'),
      vd: "Paris",
-     ad: "ORY",
-     ar: "ORY",
-     dd: "05/02/21",
-     dr: "22/02/21",
-     hd: "20h35",
-     hr: "17h10",
-     prix: "400€",
-     image: require('./Pictures/RiodeJaneiro.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/rioa/210205/210222/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009220708*I*ORY*GIG*20210205*gtbf*UX%7C202009220708*I*GIG*ORY*20210222*gtbf*TP&qp_prevCurrency=EUR&qp_prevPrice=382&qp_prevProvider=ins_month&rtn=1'
+     ad: "CDG",
+     ar: "CDG",
+     dd: "13/02/21",
+     dr: "27/02/21",
+     hd: "11h55",
+     hr: "13h56",
+     prix: "349€",
+     image: require('./Pictures/PuertoRico.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/sjua/210213/210227/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009212105*I*CDG*SJU*20210213*lmfr*AC%7C202009212105*I*SJU*ORY*20210227*lmfr*LH&qp_prevCurrency=EUR&qp_prevPrice=327&qp_prevProvider=ins_month&rtn=1'
    }
 
 
