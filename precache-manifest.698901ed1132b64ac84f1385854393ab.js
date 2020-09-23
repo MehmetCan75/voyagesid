@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae38c71ec06c8725b6d6d7f14d5371ee",
+    "revision": "93649c05532d5d9ffec5fd084b4c3b48",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "398f5d2a0d6f47489da0",
-    "url": "/voyagesid/static/css/main.1f8538a0.chunk.css"
+    "revision": "38ff270908a4de1603a9",
+    "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
-    "revision": "c14dda5c5efb8804ec44",
-    "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js"
+    "revision": "6d4b6c9c23dca715295e",
+    "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.8c6aaa53.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "398f5d2a0d6f47489da0",
-    "url": "/voyagesid/static/js/main.c3aaa7cd.chunk.js"
+    "revision": "38ff270908a4de1603a9",
+    "url": "/voyagesid/static/js/main.fde531f3.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "282b72927639fd47f113f0c1d7765456",
-    "url": "/voyagesid/static/media/Koutaissi.282b7292.jpg"
+    "revision": "7474c4bad0115c94f8c35e74db9ed162",
+    "url": "/voyagesid/static/media/India.7474c4ba.jpg"
   },
   {
-    "revision": "8f40b4aa40e1823c0ce9ba0bef125516",
-    "url": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg"
+    "revision": "8ad4172af3d173b165f3cd72c3fd098b",
+    "url": "/voyagesid/static/media/PuertoRico.8ad4172a.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
