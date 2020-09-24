@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93649c05532d5d9ffec5fd084b4c3b48",
+    "revision": "19f66a57110bd4ad36b02b3e14b218db",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "38ff270908a4de1603a9",
+    "revision": "592f1fbc4436269ad593",
     "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38ff270908a4de1603a9",
-    "url": "/voyagesid/static/js/main.fde531f3.chunk.js"
+    "revision": "592f1fbc4436269ad593",
+    "url": "/voyagesid/static/js/main.3c09bace.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "7474c4bad0115c94f8c35e74db9ed162",
-    "url": "/voyagesid/static/media/India.7474c4ba.jpg"
+    "revision": "d883488e10b5eda579bc1a64059f6351",
+    "url": "/voyagesid/static/media/Macedoine.d883488e.jpg"
   },
   {
-    "revision": "8ad4172af3d173b165f3cd72c3fd098b",
-    "url": "/voyagesid/static/media/PuertoRico.8ad4172a.jpg"
+    "revision": "cb61708d9484c151b02d90fe8469e63f",
+    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
