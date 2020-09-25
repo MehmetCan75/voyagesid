@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9be55979bd58427b490e5b92ac3f7497",
+    "revision": "8ae323d6c4bb59895c0db13eb6e3c501",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "592f1fbc4436269ad593",
+    "revision": "6daa7791fb8313ba2b21",
     "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "592f1fbc4436269ad593",
-    "url": "/voyagesid/static/js/main.3c09bace.chunk.js"
+    "revision": "6daa7791fb8313ba2b21",
+    "url": "/voyagesid/static/js/main.43ab1a8a.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "d883488e10b5eda579bc1a64059f6351",
-    "url": "/voyagesid/static/media/Macedoine.d883488e.jpg"
-  },
-  {
-    "revision": "cb61708d9484c151b02d90fe8469e63f",
-    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
+    "revision": "1095834bde56e147090026025bc7d2ec",
+    "url": "/voyagesid/static/media/Istanbul2.1095834b.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "eca5be7b0b297631a2ac0a3271c41130",
+    "url": "/voyagesid/static/media/Zanzibar.eca5be7b.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
