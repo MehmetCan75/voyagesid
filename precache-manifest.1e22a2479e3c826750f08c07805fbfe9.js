@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ae323d6c4bb59895c0db13eb6e3c501",
+    "revision": "ed4b4dab6cee0490ed1198d3e5faf898",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "6daa7791fb8313ba2b21",
+    "revision": "c629d9889a3572cccb42",
     "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
@@ -16,24 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6daa7791fb8313ba2b21",
-    "url": "/voyagesid/static/js/main.43ab1a8a.chunk.js"
+    "revision": "c629d9889a3572cccb42",
+    "url": "/voyagesid/static/js/main.ffabb828.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "1095834bde56e147090026025bc7d2ec",
-    "url": "/voyagesid/static/media/Istanbul2.1095834b.jpg"
-  },
-  {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
-    "revision": "eca5be7b0b297631a2ac0a3271c41130",
-    "url": "/voyagesid/static/media/Zanzibar.eca5be7b.jpg"
+    "revision": "d8a47e4bbc8706d07f55899d27522e3b",
+    "url": "/voyagesid/static/media/Zakynthos.d8a47e4b.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -42,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "909f55051e5391eb55e386bc0c826afa",
+    "url": "/voyagesid/static/media/lisboa.909f5505.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",

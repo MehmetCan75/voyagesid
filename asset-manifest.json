@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.1a273b4b.chunk.css",
-    "main.js": "/voyagesid/static/js/main.43ab1a8a.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.43ab1a8a.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.ffabb828.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.ffabb828.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.7b7fa75c.chunk.js": "/voyagesid/static/js/2.7b7fa75c.chunk.js",
     "static/js/2.7b7fa75c.chunk.js.map": "/voyagesid/static/js/2.7b7fa75c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.3691825808203beeb97be11dafdcaed3.js": "/voyagesid/precache-manifest.3691825808203beeb97be11dafdcaed3.js",
+    "precache-manifest.1e22a2479e3c826750f08c07805fbfe9.js": "/voyagesid/precache-manifest.1e22a2479e3c826750f08c07805fbfe9.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.1a273b4b.chunk.css.map": "/voyagesid/static/css/main.1a273b4b.chunk.css.map",
     "static/js/2.7b7fa75c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt",
-    "static/media/Istanbul2.jpg": "/voyagesid/static/media/Istanbul2.1095834b.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/Zanzibar.jpg": "/voyagesid/static/media/Zanzibar.eca5be7b.jpg",
+    "static/media/Zakynthos.jpg": "/voyagesid/static/media/Zakynthos.d8a47e4b.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
+    "static/media/lisboa.jpg": "/voyagesid/static/media/lisboa.909f5505.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.7b7fa75c.chunk.js",
     "static/css/main.1a273b4b.chunk.css",
-    "static/js/main.43ab1a8a.chunk.js"
+    "static/js/main.ffabb828.chunk.js"
   ]
 }
