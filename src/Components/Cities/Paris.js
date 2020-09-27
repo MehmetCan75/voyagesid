@@ -7,18 +7,18 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Zakynthos",
-     flag: require('./Flag/greece.png'),
+     destination: "Buenos Aires",
+     flag: require('./Flag/argentina.png'),
      vd: "Paris",
-     ad: "ORY",
-     ar: "ORY",
-     dd: "03/10/20",
-     dr: "10/10/20",
-     hd: "06h20",
-     hr: "11h05",
-     prix: "104€",
-     image: require('./Pictures/Zakynthos.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/zaki/201003/201010/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009251429*D*ORY*ZTH*20201003*t2fr*HV%7C202009251429*D*ZTH*ORY*20201010*t2fr*HV&qp_prevCurrency=EUR&qp_prevPrice=104&qp_prevProvider=ins_month&rtn=1'
+     ad: "CDG",
+     ar: "CDG",
+     dd: "12/02/21",
+     dr: "27/02/21",
+     hd: "19h35",
+     hr: "18h05",
+     prix: "483€",
+     image: require('./Pictures/BuenosAires.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/buea/210212/210227/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009201925*I*CDG*EZE*20210212*lmfr*LH%7C202009201925*I*EZE*CDG*20210227*lmfr*LH&qp_prevCurrency=EUR&qp_prevPrice=476&qp_prevProvider=ins_month&rtn=1'
    }
 
 
