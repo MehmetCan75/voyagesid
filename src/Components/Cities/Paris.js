@@ -7,18 +7,18 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Buenos Aires",
-     flag: require('./Flag/argentina.png'),
+     destination: "Tromso",
+     flag: require('./Flag/norway.png'),
      vd: "Paris",
      ad: "CDG",
      ar: "CDG",
-     dd: "12/02/21",
-     dr: "27/02/21",
-     hd: "19h35",
-     hr: "18h05",
-     prix: "483€",
-     image: require('./Pictures/BuenosAires.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/buea/210212/210227/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009201925*I*CDG*EZE*20210212*lmfr*LH%7C202009201925*I*EZE*CDG*20210227*lmfr*LH&qp_prevCurrency=EUR&qp_prevPrice=476&qp_prevProvider=ins_month&rtn=1'
+     dd: "27/01/21",
+     dr: "03/02/21",
+     hd: "12h25",
+     hr: "06h30",
+     prix: "157€",
+     image: require('./Pictures/Tromso.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/trom/210127/210203/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009262043*I*CDG*TOS*20210127*at24*DY%7C202009262043*I*TOS*CDG*20210203*at24*DY&qp_prevCurrency=EUR&qp_prevPrice=157&qp_prevProvider=ins_month&rtn=1'
    }
 
 
