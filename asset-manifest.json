@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.1a273b4b.chunk.css",
-    "main.js": "/voyagesid/static/js/main.4bca102e.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.4bca102e.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.60f6d8ca.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.60f6d8ca.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.7b7fa75c.chunk.js": "/voyagesid/static/js/2.7b7fa75c.chunk.js",
     "static/js/2.7b7fa75c.chunk.js.map": "/voyagesid/static/js/2.7b7fa75c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.1834f2d76697d67294fcc6905bcb4b87.js": "/voyagesid/precache-manifest.1834f2d76697d67294fcc6905bcb4b87.js",
+    "precache-manifest.48372dcc7757c402cbe30a45319089cd.js": "/voyagesid/precache-manifest.48372dcc7757c402cbe30a45319089cd.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.1a273b4b.chunk.css.map": "/voyagesid/static/css/main.1a273b4b.chunk.css.map",
     "static/js/2.7b7fa75c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt",
-    "static/media/BuenosAires.jpg": "/voyagesid/static/media/BuenosAires.b4933d0c.jpg",
+    "static/media/Kenya.jpg": "/voyagesid/static/media/Kenya.faaee418.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/Tokyo.jpg": "/voyagesid/static/media/Tokyo.1a3e3175.jpg",
+    "static/media/Tromso.jpg": "/voyagesid/static/media/Tromso.60a2999f.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
@@ -22,6 +22,6 @@
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.7b7fa75c.chunk.js",
     "static/css/main.1a273b4b.chunk.css",
-    "static/js/main.4bca102e.chunk.js"
+    "static/js/main.60f6d8ca.chunk.js"
   ]
 }
