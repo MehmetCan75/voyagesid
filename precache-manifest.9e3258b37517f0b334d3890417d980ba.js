@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "040e802c391b106f511a5e7fd1a90feb",
+    "revision": "36221879f5fef53c9deccadadbac4905",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "0aeed741ed279b45e4cd",
+    "revision": "7b741069a3d2e01049d3",
     "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
@@ -16,28 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0aeed741ed279b45e4cd",
-    "url": "/voyagesid/static/js/main.60f6d8ca.chunk.js"
+    "revision": "7b741069a3d2e01049d3",
+    "url": "/voyagesid/static/js/main.77852af6.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "faaee4183496e6409264239d2a4f3a12",
-    "url": "/voyagesid/static/media/Kenya.faaee418.jpg"
+    "revision": "0ce967468edc1475e0ea514e388d26dc",
+    "url": "/voyagesid/static/media/Guadeloupe.0ce96746.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
-    "revision": "60a2999fff42dda62109f9af7f6b564a",
-    "url": "/voyagesid/static/media/Tromso.60a2999f.jpg"
-  },
-  {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
+  },
+  {
+    "revision": "7efbd9ede3e372a07213c5f45f6fc239",
+    "url": "/voyagesid/static/media/heraklion.7efbd9ed.jpg"
   },
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
