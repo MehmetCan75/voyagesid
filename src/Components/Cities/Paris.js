@@ -7,18 +7,18 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Tromso",
-     flag: require('./Flag/norway.png'),
+     destination: "Pointe-à-Pitre",
+     flag: require('./Flag/france.png'),
      vd: "Paris",
-     ad: "CDG",
-     ar: "CDG",
-     dd: "27/01/21",
-     dr: "03/02/21",
-     hd: "12h25",
-     hr: "06h30",
-     prix: "157€",
-     image: require('./Pictures/Tromso.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/trom/210127/210203/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009262043*I*CDG*TOS*20210127*at24*DY%7C202009262043*I*TOS*CDG*20210203*at24*DY&qp_prevCurrency=EUR&qp_prevPrice=157&qp_prevProvider=ins_month&rtn=1'
+     ad: "ORY",
+     ar: "ORY",
+     dd: "01/02/21",
+     dr: "10/02/21",
+     hd: "10h50",
+     hr: "20h45",
+     prix: "220€",
+     image: require('./Pictures/Guadeloupe.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/ptpa/210201/210210/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009281114*D*ORY*PTP*20210201*edfr*TX%7C202009281114*D*PTP*ORY*20210210*edfr*TX&qp_prevCurrency=EUR&qp_prevPrice=232&qp_prevProvider=ins_month&rtn=1'
    }
 
 
