@@ -40,16 +40,14 @@ export default class LandPage extends Component {
     return (
       <div>
         <Header></Header>
-        <Modal></Modal>
+        <Modal />
         <MenuCities listRef={this.state.listRef} lang={this.state.lang} />
         <Element name="Paris" className="PRS">
-          <Paris></Paris>
+          <Paris className="PRS" />
         </Element>
-        {/* <Element name='Lyon'className="PRS"><Lyon></Lyon></Element> */}
         <Element name="Marseille" className="PRS">
           <Marseille></Marseille>
         </Element>
-        {/* <Element name='Toulouse' className="PRS"><Toulouse></Toulouse></Element> */}
       </div>
     );
   }
