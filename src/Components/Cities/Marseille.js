@@ -7,18 +7,18 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Bangkok",
-     flag: require('./Flag/thailand.png'),
+     destination: "Maceió",
+     flag: require('./Flag/brazil.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
-     dd: "06/01/21",
-     dr: "20/01/21",
-     hd: "10h10",
-     hr: "23h50",
-     prix: "346€",
-     image: require('./Pictures/Thailande.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/mrs/bkkt/210106/210120/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009271744*I*MRS*BKK*20210106*edfr*LH%7C202009271744*I*BKK*MRS*20210120*edfr*LH&qp_prevCurrency=EUR&qp_prevPrice=346&qp_prevProvider=ins_month&rtn=1'
+     dd: "08/01/21",
+     dr: "22/01/21",
+     hd: "06h00",
+     hr: "23h10",
+     prix: "473€",
+     image: require('./Pictures/Maceio2.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/mrs/mcz/210108/210122/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&preferflexible=false&ref=home&rtn=1'
    }
 
 
