@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afaab8038595e7bd1a0c17a8824116e4",
+    "revision": "460a39efe588bc4085cecaac8024aaa9",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "9129b7aa438fcaaf555c",
+    "revision": "9f84269d6fb1c524b42e",
     "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
-    "revision": "6d4b6c9c23dca715295e",
-    "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js"
+    "revision": "4c5a3c28cd18d65b3296",
+    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.7b7fa75c.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9129b7aa438fcaaf555c",
-    "url": "/voyagesid/static/js/main.6fa66208.chunk.js"
+    "revision": "9f84269d6fb1c524b42e",
+    "url": "/voyagesid/static/js/main.12423d7b.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "c6e2c680bcde369756e83baa9f9cbd74",
-    "url": "/voyagesid/static/media/Bogota.c6e2c680.jpg"
+    "revision": "14c7b621503e8e28e337cdaf5b8486dd",
+    "url": "/voyagesid/static/media/Alitalia.14c7b621.jpg"
   },
   {
-    "revision": "708344cf2ab9db246b1141c2fba226ec",
-    "url": "/voyagesid/static/media/Sevilla.708344cf.jpg"
+    "revision": "cb61708d9484c151b02d90fe8469e63f",
+    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "1dfb0f95cd5a2c4abe443ac87fb54878",
+    "url": "/voyagesid/static/media/malta.1dfb0f95.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
