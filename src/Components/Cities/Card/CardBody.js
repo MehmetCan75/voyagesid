@@ -13,7 +13,7 @@ export default class CardBody extends Component {
           <p className="date">Aéroport de Retour : {this.props.ar}</p>
           <p className="date">Vol Aller : {this.props.dd} || Horaire : {this.props.hd}</p>
           <p className="date">Vol Retour : {this.props.dr} || Horaire : {this.props.hr}</p>
-          <p className="date">Compagnie aérienne: Alitalia</p>
+          <p className="date">Compagnie aérienne: {this.props.airlines}</p>
           <p className="date"><img style={{width:"9vh"}} src={this.props.ca} alt="CA"></img></p>
 
           <p className="prix">PRIX: {this.props.prix}</p>

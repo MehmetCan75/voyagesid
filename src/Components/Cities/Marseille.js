@@ -17,6 +17,7 @@ import CardHeader from './Card/CardHeader'
      hd: "14h25",
      hr: "10h45",
      ca: require('./Airlines/Ryanair.jpg'),
+     airlines: "Ryanair",
      prix: "39€",
      image: require('./Pictures/malta.jpg'),
      link : 'https://www.skyscanner.fr/transport/vols/mrs/luqa/201009/201012/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010030024*D*MRS*MLA*20201009*ryan*FR%7C202010021732*D*MLA*MRS*20201012*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=51&qp_prevProvider=ins_month&rtn=1'
@@ -31,7 +32,7 @@ import CardHeader from './Card/CardHeader'
     return (
       <article className="card">
         <CardHeader style={style}/>
-        <CardBody destination={this.state.destination} ca={this.state.ca} flag={this.state.flag} vd={this.state.vd} ad={this.state.ad} ar={this.state.ar} dd={this.state.dd} hd= {this.state.hd} dr={this.state.dr} hr={this.state.hr} prix={this.state.prix} link={this.state.link}/>
+        <CardBody destination={this.state.destination} airlines={this.state.airlines} ca={this.state.ca} flag={this.state.flag} vd={this.state.vd} ad={this.state.ad} ar={this.state.ar} dd={this.state.dd} hd= {this.state.hd} dr={this.state.dr} hr={this.state.hr} prix={this.state.prix} link={this.state.link}/>
       </article>
     )
   }
