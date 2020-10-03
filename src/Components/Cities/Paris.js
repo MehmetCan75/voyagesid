@@ -7,18 +7,19 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Bogotá",
-     flag: require('./Flag/mexico.png'),
+     destination: "Rome",
+     flag: require('./Flag/italy.png'),
      vd: "Paris",
-     ad: "ORY",
-     ar: "ORY",
-     dd: "13/01/21",
-     dr: "28/01/21",
-     hd: "10h15",
-     hr: "21h30",
-     prix: "483€",
-     image: require('./Pictures/Bogota.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/boga/210113/210128/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202009302109*I*ORY*BOG*20210113*gtbf*UX%7C202009302109*I*BOG*ORY*20210128*gtbf*UX&qp_prevCurrency=EUR&qp_prevPrice=450&qp_prevProvider=ins_month&rtn=1'
+     ad: "CDG",
+     ar: "CDG",
+     dd: "11/10/20",
+     dr: "18/10/20",
+     hd: "13h00",
+     hr: "09h50",
+     ca: require('./Airlines/Alitalia.jpg'),
+     prix: "70€",
+     image: require('./Pictures/Rome.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/rome/201011/201018/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010031201*D*BVA*CIA*20201011*ryan*FR%7C202010030719*D*CIA*BVA*20201018*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=28&qp_prevProvider=ins_month&rtn=1'
    }
 
 
@@ -31,7 +32,7 @@ import CardHeader from './Card/CardHeader'
     return (
       <article className="card">
         <CardHeader style={style}/>
-        <CardBody destination={this.state.destination} flag={this.state.flag} vd={this.state.vd} ad={this.state.ad} ar={this.state.ar} dd={this.state.dd} hd= {this.state.hd} dr={this.state.dr} hr={this.state.hr} prix={this.state.prix} link={this.state.link}/>
+        <CardBody destination={this.state.destination} ca={this.state.ca} flag={this.state.flag} vd={this.state.vd} ad={this.state.ad} ar={this.state.ar} dd={this.state.dd} hd= {this.state.hd} dr={this.state.dr} hr={this.state.hr} prix={this.state.prix} link={this.state.link}/>
       </article>
     )
   }
