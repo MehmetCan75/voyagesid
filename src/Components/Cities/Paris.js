@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Rome",
-     flag: require('./Flag/italy.png'),
-     vd: "Paris",
-     ad: "CDG",
-     ar: "CDG",
-     dd: "11/10/20",
-     dr: "18/10/20",
-     hd: "13h00",
-     hr: "09h50",
-     ca: require('./Airlines/Alitalia.jpg'),
-     airlines: "Alitalia",
-     prix: "70€",
-     image: require('./Pictures/Rome.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/rome/201011/201018/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010031201*D*BVA*CIA*20201011*ryan*FR%7C202010030719*D*CIA*BVA*20201018*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=28&qp_prevProvider=ins_month&rtn=1'
+     destination: "Kiev",
+     flag: require('./Flag/ukraine.png'),
+     vd: "Paris/Beauvais",
+     ad: "BVA",
+     ar: "BVA",
+     dd: "05/11/20",
+     dr: "15/11/20",
+     hd: "13h55",
+     hr: "10h20",
+     ca: require('./Airlines/Skyup.jpg'),
+     airlines: "SkyUp",
+     prix: "115€",
+     image: require('./Pictures/Ukraine.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/kiev/201105/201115/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&preferflexible=false&ref=home&rtn=1'
    }
 
 
