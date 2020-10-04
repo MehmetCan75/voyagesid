@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d07df88c5002b057b20b4d881c0a9b8",
+    "revision": "c0cf08ddc9cd3a80fb209d6776e3d14b",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "e7f99a87c87e495d4d7d",
+    "revision": "4c7e4a2afee40abe39a9",
     "url": "/voyagesid/static/css/main.1a273b4b.chunk.css"
   },
   {
@@ -16,24 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7f99a87c87e495d4d7d",
-    "url": "/voyagesid/static/js/main.5c3913d8.chunk.js"
+    "revision": "4c7e4a2afee40abe39a9",
+    "url": "/voyagesid/static/js/main.39fca259.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "14c7b621503e8e28e337cdaf5b8486dd",
-    "url": "/voyagesid/static/media/Alitalia.14c7b621.jpg"
+    "revision": "b02608eca16c8b311d8de4ebdd0d6c79",
+    "url": "/voyagesid/static/media/Lanzarote.b02608ec.jpg"
   },
   {
-    "revision": "cb61708d9484c151b02d90fe8469e63f",
-    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
+    "revision": "8d4fdffe42ac9b3e9df929913eb383b3",
+    "url": "/voyagesid/static/media/Skyup.8d4fdffe.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "0f85f28a6284077a08282241fc821534",
+    "url": "/voyagesid/static/media/Ukraine.0f85f28a.jpg"
+  },
+  {
+    "revision": "3abd57d3b1f2d02ed69b3422d43eebb4",
+    "url": "/voyagesid/static/media/Volotea.3abd57d3.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -42,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
-  },
-  {
-    "revision": "1dfb0f95cd5a2c4abe443ac87fb54878",
-    "url": "/voyagesid/static/media/malta.1dfb0f95.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
