@@ -23,6 +23,7 @@
     background-size:cover;
     background-position: center;
     color:#fff;
+    position: sticky;
   }
   
   .card-header--title {
