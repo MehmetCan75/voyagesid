@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Kiev",
-     flag: require('./Flag/ukraine.png'),
+     destination: "Belgrade",
+     flag: require('./Flag/serbia.png'),
      vd: "Paris/Beauvais",
      ad: "BVA",
      ar: "BVA",
-     dd: "05/11/20",
-     dr: "15/11/20",
-     hd: "13h55",
-     hr: "10h20",
-     ca: require('./Airlines/Skyup.jpg'),
-     airlines: "SkyUp",
-     prix: "115€",
-     image: require('./Pictures/Ukraine.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/kiev/201105/201115/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&preferflexible=false&ref=home&rtn=1'
+     dd: "24/11/20",
+     dr: "01/12/20",
+     hd: "09h30",
+     hr: "06h20",
+     ca: require('./Airlines/Wizzair.jpg'),
+     airlines: "WizzAir",
+     prix: "60€",
+     image: require('./Pictures/Belgrade.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/beli/201124/201201/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010040001*D*BVA*BEG*20201124*lmfr*W6%7C202010040001*D*BEG*BVA*20201201*lmfr*W6&qp_prevCurrency=EUR&qp_prevPrice=59&qp_prevProvider=ins_month&rtn=1'
    }
 
 
