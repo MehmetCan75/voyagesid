@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.1a273b4b.chunk.css",
-    "main.js": "/voyagesid/static/js/main.39fca259.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.39fca259.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.dbc77b83.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.dbc77b83.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
     "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.538654c74c9a0afe1c499ae3419a0a83.js": "/voyagesid/precache-manifest.538654c74c9a0afe1c499ae3419a0a83.js",
+    "precache-manifest.59be415c731888f07f3f9e25cc3e396f.js": "/voyagesid/precache-manifest.59be415c731888f07f3f9e25cc3e396f.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.1a273b4b.chunk.css.map": "/voyagesid/static/css/main.1a273b4b.chunk.css.map",
     "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Lanzarote.jpg": "/voyagesid/static/media/Lanzarote.b02608ec.jpg",
-    "static/media/Skyup.jpg": "/voyagesid/static/media/Skyup.8d4fdffe.jpg",
+    "static/media/AirFrance.jpg": "/voyagesid/static/media/AirFrance.c06c3b80.jpg",
+    "static/media/Belgrade.jpg": "/voyagesid/static/media/Belgrade.7d60f193.jpg",
+    "static/media/Colombia.jpg": "/voyagesid/static/media/Colombia.4a94b4bd.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/Ukraine.jpg": "/voyagesid/static/media/Ukraine.0f85f28a.jpg",
-    "static/media/Volotea.jpg": "/voyagesid/static/media/Volotea.3abd57d3.jpg",
+    "static/media/Wizzair.jpg": "/voyagesid/static/media/Wizzair.c355a07b.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6bf2dfb5.chunk.js",
     "static/css/main.1a273b4b.chunk.css",
-    "static/js/main.39fca259.chunk.js"
+    "static/js/main.dbc77b83.chunk.js"
   ]
 }
