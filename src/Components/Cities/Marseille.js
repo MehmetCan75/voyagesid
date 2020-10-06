@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Bogotá",
-     flag: require('./Flag/colombia.png'),
+     destination: "Zanzibar",
+     flag: require('./Flag/kenya.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
-     dd: "15/01/21",
-     dr: "30/01/21",
-     hd: "10h30",
-     hr: "00h05",
-     ca: require('./Airlines/AirFrance.jpg'),
-     airlines: "Air France",
-     prix: "539€",
-     image: require('./Pictures/Colombia.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/mrs/bog/210115/210130/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010031908*I*MRS*BOG*20210115*lmfr*LH%7C202010031908*I*BOG*MRS*20210130*lmfr*LH&qp_prevCurrency=EUR&qp_prevPrice=472&qp_prevProvider=ins_month&rtn=1'
+     dd: "09/02/21",
+     dr: "18/02/21",
+     hd: "17h45",
+     hr: "04h45",
+     ca: require('./Airlines/TurkishAirlines.jpg'),
+     airlines: "Turkish Airlines",
+     prix: "388€",
+     image: require('./Pictures/Zanzibar.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/mrs/znza/210209/210218/config/14323-2102091745--31734-1-18557-2102110350%7C18557-2102180445--31734-2-14323-2102181650?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010051138*I*MRS*ZNZ*20210209*gofr*TK%7C202010051138*I*ZNZ*MRS*20210218*gofr*TK&qp_prevCurrency=EUR&qp_prevPrice=388&qp_prevProvider=ins_month&rtn=1'
    }
 
 

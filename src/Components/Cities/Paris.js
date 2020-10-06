@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Belgrade",
-     flag: require('./Flag/serbia.png'),
-     vd: "Paris/Beauvais",
-     ad: "BVA",
-     ar: "BVA",
-     dd: "24/11/20",
-     dr: "01/12/20",
-     hd: "09h30",
-     hr: "06h20",
-     ca: require('./Airlines/Wizzair.jpg'),
-     airlines: "WizzAir",
-     prix: "60€",
-     image: require('./Pictures/Belgrade.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/beli/201124/201201/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010040001*D*BVA*BEG*20201124*lmfr*W6%7C202010040001*D*BEG*BVA*20201201*lmfr*W6&qp_prevCurrency=EUR&qp_prevPrice=59&qp_prevProvider=ins_month&rtn=1'
+     destination: "Athènes",
+     flag: require('./Flag/greece.png'),
+     vd: "Paris",
+     ad: "CDG",
+     ar: "CDG",
+     dd: "07/11/20",
+     dr: "14/11/20",
+     hd: "20h15",
+     hr: "16h50",
+     ca: require('./Airlines/Aegean.jpg'),
+     airlines: "Aegean",
+     prix: "97€",
+     image: require('./Pictures/athenes.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/athe/201107/201114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010032039*I*BVA*ATH*20201107*skyp*FR%7C202010032039*I*ATH*BVA*20201114*skyp*FR&qp_prevCurrency=EUR&qp_prevPrice=78&qp_prevProvider=ins_month&rtn=1'
    }
 
 
