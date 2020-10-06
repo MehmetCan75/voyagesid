@@ -8,7 +8,7 @@ import CardHeader from './Card/CardHeader'
  export default class Card extends Component {
    state = {
      destination: "Zanzibar",
-     flag: require('./Flag/kenya.png'),
+     flag: require('./Flag/tanzania.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
