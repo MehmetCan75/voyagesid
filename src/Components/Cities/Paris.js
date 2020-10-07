@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Athènes",
-     flag: require('./Flag/greece.png'),
+     destination: "Mexico",
+     flag: require('./Flag/mexico.png'),
      vd: "Paris",
      ad: "CDG",
      ar: "CDG",
-     dd: "07/11/20",
-     dr: "14/11/20",
-     hd: "20h15",
-     hr: "16h50",
-     ca: require('./Airlines/Aegean.jpg'),
-     airlines: "Aegean",
-     prix: "97€",
-     image: require('./Pictures/athenes.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/athe/201107/201114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010032039*I*BVA*ATH*20201107*skyp*FR%7C202010032039*I*ATH*BVA*20201114*skyp*FR&qp_prevCurrency=EUR&qp_prevPrice=78&qp_prevProvider=ins_month&rtn=1'
+     dd: "22/01/21",
+     dr: "13/02/21",
+     hd: "13h35",
+     hr: "04h50",
+     ca: require('./Airlines/TurkishAirlines.jpg'),
+     airlines: "Turkish Airlines",
+     prix: "416€",
+     image: require('./Pictures/Mexique.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/mexa/210122/210213/config/10413-2101221335--31734-1-13993-2101230320%7C13993-2102130450--31734-2-10413-2102140950?adultsv2=1&airlines=!DL,!KL,!AF,!TP,!UX,!UA,!VS,!LX,!AC,!LH,!AY,!AM,!AA,!IB,!SN,!BA,!OS,!multiple&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010071003*I*CDG*MEX*20210122*at24*LH%7C202010071003*I*MEX*CDG*20210213*at24*AC&qp_prevCurrency=EUR&qp_prevPrice=405&qp_prevProvider=ins_month&rtn=1'
    }
 
 
