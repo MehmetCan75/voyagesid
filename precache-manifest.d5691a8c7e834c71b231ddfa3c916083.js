@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0969174ee221d090e7e723153eb43c54",
+    "revision": "87ced44bbbb973e9e4d7f0f2877be987",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "c5f2c8ac56b8acff2f6e",
+    "revision": "1f9cea891fffe66e26b3",
     "url": "/voyagesid/static/css/main.6d4e8326.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5f2c8ac56b8acff2f6e",
-    "url": "/voyagesid/static/js/main.34d8036e.chunk.js"
+    "revision": "1f9cea891fffe66e26b3",
+    "url": "/voyagesid/static/js/main.a5aae61c.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "482f8aa0dc9f27d0421ba9246d1b220c",
-    "url": "/voyagesid/static/media/Cagliari.482f8aa0.jpg"
-  },
-  {
     "revision": "29351ef01bd3dacdc3912194c7b71f3a",
     "url": "/voyagesid/static/media/Mexique.29351ef0.jpg"
+  },
+  {
+    "revision": "cb61708d9484c151b02d90fe8469e63f",
+    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
