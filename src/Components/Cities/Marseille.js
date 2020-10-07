@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Cagliari",
+     destination: "Rome",
      flag: require('./Flag/italy.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
-     dd: "16/10/21",
-     dr: "19/10/21",
-     hd: "12h45",
-     hr: "10h05",
+     dd: "23/10/20",
+     dr: "28/10/20",
+     hd: "18h00",
+     hr: "11h35",
      ca: require('./Airlines/Ryanair.jpg'),
      airlines: "Ryan Air",
-     prix: "30€",
-     image: require('./Pictures/Cagliari.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/cagl/201016/201019/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010071346*D*BVA*CAG*20201016*ryan*FR%7C202010071717*D*CAG*BVA*20201019*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=28&qp_prevProvider=ins_month&rtn=1'
+     prix: "41€",
+     image: require('./Pictures/Rome.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/mrs/rome/201023/201028/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010070628*D*MRS*FCO*20201023*ryan*FR%7C202010070902*D*CIA*MRS*20201028*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=41&qp_prevProvider=ins_month&rtn=1'
    }
 
 
