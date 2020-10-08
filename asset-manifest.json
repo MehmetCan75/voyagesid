@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.6d4e8326.chunk.css",
-    "main.js": "/voyagesid/static/js/main.a5aae61c.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.a5aae61c.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.4bbf80a9.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.4bbf80a9.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
     "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.d5691a8c7e834c71b231ddfa3c916083.js": "/voyagesid/precache-manifest.d5691a8c7e834c71b231ddfa3c916083.js",
+    "precache-manifest.62ea5ab62db5b39096c17d10f9e707a2.js": "/voyagesid/precache-manifest.62ea5ab62db5b39096c17d10f9e707a2.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.6d4e8326.chunk.css.map": "/voyagesid/static/css/main.6d4e8326.chunk.css.map",
     "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Mexique.jpg": "/voyagesid/static/media/Mexique.29351ef0.jpg",
-    "static/media/Rome.jpg": "/voyagesid/static/media/Rome.cb61708d.jpg",
+    "static/media/Istanbul2.jpg": "/voyagesid/static/media/Istanbul2.1095834b.jpg",
+    "static/media/Pegasus.jpg": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/TurkishAirlines.jpg": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
+    "static/media/lisboa.jpg": "/voyagesid/static/media/lisboa.909f5505.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6bf2dfb5.chunk.js",
     "static/css/main.6d4e8326.chunk.css",
-    "static/js/main.a5aae61c.chunk.js"
+    "static/js/main.4bbf80a9.chunk.js"
   ]
 }

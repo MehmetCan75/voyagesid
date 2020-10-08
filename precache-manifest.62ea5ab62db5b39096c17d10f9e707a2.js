@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87ced44bbbb973e9e4d7f0f2877be987",
+    "revision": "1b45e03f265827f157dd37d1d2e58760",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "1f9cea891fffe66e26b3",
+    "revision": "fefe584fc72dc7bdd52e",
     "url": "/voyagesid/static/css/main.6d4e8326.chunk.css"
   },
   {
@@ -16,28 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f9cea891fffe66e26b3",
-    "url": "/voyagesid/static/js/main.a5aae61c.chunk.js"
+    "revision": "fefe584fc72dc7bdd52e",
+    "url": "/voyagesid/static/js/main.4bbf80a9.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "29351ef01bd3dacdc3912194c7b71f3a",
-    "url": "/voyagesid/static/media/Mexique.29351ef0.jpg"
+    "revision": "1095834bde56e147090026025bc7d2ec",
+    "url": "/voyagesid/static/media/Istanbul2.1095834b.jpg"
   },
   {
-    "revision": "cb61708d9484c151b02d90fe8469e63f",
-    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
+    "revision": "b9c8db4bc1e4d73c0df409660cdff473",
+    "url": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
-  },
-  {
-    "revision": "4c848ccd5f495e802130a83c0aca029d",
-    "url": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -46,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "909f55051e5391eb55e386bc0c826afa",
+    "url": "/voyagesid/static/media/lisboa.909f5505.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
