@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Mexico",
-     flag: require('./Flag/mexico.png'),
+     destination: "Istanbul",
+     flag: require('./Flag/turkey.png'),
      vd: "Paris",
-     ad: "CDG",
-     ar: "CDG",
-     dd: "22/01/21",
-     dr: "13/02/21",
-     hd: "13h35",
-     hr: "04h50",
-     ca: require('./Airlines/TurkishAirlines.jpg'),
-     airlines: "Turkish Airlines",
-     prix: "416€",
-     image: require('./Pictures/Mexique.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/mexa/210122/210213/config/10413-2101221335--31734-1-13993-2101230320%7C13993-2102130450--31734-2-10413-2102140950?adultsv2=1&airlines=!DL,!KL,!AF,!TP,!UX,!UA,!VS,!LX,!AC,!LH,!AY,!AM,!AA,!IB,!SN,!BA,!OS,!multiple&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010071003*I*CDG*MEX*20210122*at24*LH%7C202010071003*I*MEX*CDG*20210213*at24*AC&qp_prevCurrency=EUR&qp_prevPrice=405&qp_prevProvider=ins_month&rtn=1'
+     ad: "ORY",
+     ar: "ORY",
+     dd: "06/11/20",
+     dr: "14/11/20",
+     hd: "16h00",
+     hr: "08h50",
+     ca: require('./Airlines/Pegasus.jpg'),
+     airlines: "Pegasus Airlines",
+     prix: "129€",
+     image: require('./Pictures/Istanbul2.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/ista/201106/201114/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010081038*D*ORY*SAW*20201106*ctfr*PC%7C202010081038*D*SAW*CDG*20201114*ctfr*TK&qp_prevCurrency=EUR&qp_prevPrice=142&qp_prevProvider=ins_month&rtn=1'
    }
 
 
