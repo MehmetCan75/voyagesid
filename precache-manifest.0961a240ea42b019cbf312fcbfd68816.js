@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "caeaba46f7e9d01923acffa3c17df13c",
+    "revision": "f01ba238b1a1eff39ef7c19ca5b6248e",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "193631b7c49bf8509e2a",
+    "revision": "cccb7dbc238d5ee79d48",
     "url": "/voyagesid/static/css/main.6d4e8326.chunk.css"
   },
   {
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "193631b7c49bf8509e2a",
-    "url": "/voyagesid/static/js/main.197c0836.chunk.js"
+    "revision": "cccb7dbc238d5ee79d48",
+    "url": "/voyagesid/static/js/main.28f84e01.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
+  },
+  {
+    "revision": "3092252ab6365108f67e357dfddc9b43",
+    "url": "/voyagesid/static/media/Klm.3092252a.jpg"
+  },
+  {
+    "revision": "8f40b4aa40e1823c0ce9ba0bef125516",
+    "url": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg"
   },
   {
     "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
@@ -32,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
-    "revision": "8faa74d07e1b61dcb5ef67e0a74c19aa",
-    "url": "/voyagesid/static/media/Transavia.8faa74d0.jpg"
-  },
-  {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
   },
@@ -44,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
   },
   {
-    "revision": "74cd12a346d0a1c5705bc1eace2dec27",
-    "url": "/voyagesid/static/media/marrakech.74cd12a3.jpg"
+    "revision": "e7e9ae0f91244b76283c9fc030df898f",
+    "url": "/voyagesid/static/media/naples.e7e9ae0f.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
@@ -54,9 +58,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f53112799a9b594e2ab4ddd4fd7555c",
     "url": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
-  },
-  {
-    "revision": "590a5b3946d825ac9f6ed41f0127f7b9",
-    "url": "/voyagesid/static/media/prague.590a5b39.jpg"
   }
 ]);
