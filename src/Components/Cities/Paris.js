@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Prague",
-     flag: require('./Flag/czech-republic.png'),
+     destination: "Rio de Janeiro",
+     flag: require('./Flag/brazil.png'),
      vd: "Paris",
-     ad: "ORY",
-     ar: "ORY",
-     dd: "20/11/20",
-     dr: "27/11/20",
-     hd: "18h25",
+     ad: "CDG",
+     ar: "CDG",
+     dd: "12/01/21",
+     dr: "25/01/21",
+     hd: "08h05",
      hr: "20h50",
-     ca: require('./Airlines/Transavia.jpg'),
-     airlines: "Transavia",
-     prix: "72€",
-     image: require('./Pictures/prague.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/prag/201120/201127/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010080856*I*BVA*PRG*20201120*gtbf*FR%7C202010080856*I*PRG*BVA*20201127*gtbf*FR&qp_prevCurrency=EUR&qp_prevPrice=64&qp_prevProvider=ins_month&rtn=1'
+     ca: require('./Airlines/Klm.jpg'),
+     airlines: "KLM",
+     prix: "426€",
+     image: require('./Pictures/RiodeJaneiro.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/rioa/210112/210125/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010070753*I*BVA*SDU*20210112*gtbf*FR%7C202010070753*I*SDU*BVA*20210125*gtbf*AD&qp_prevCurrency=EUR&qp_prevPrice=345&qp_prevProvider=ins_month&rtn=1'
    }
 
 

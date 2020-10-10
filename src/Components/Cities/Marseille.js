@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Marrakech",
-     flag: require('./Flag/morocco.png'),
+     destination: "Naples",
+     flag: require('./Flag/italy.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
-     dd: "06/11/20",
-     dr: "09/11/20",
-     hd: "10h35",
-     hr: "07h20",
+     dd: "23/10/20",
+     dr: "30/10/20",
+     hd: "13h55",
+     hr: "09h45",
      ca: require('./Airlines/Ryanair.jpg'),
      airlines: "Ryan Air",
-     prix: "50€",
-     image: require('./Pictures/marrakech.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/mrs/marr/201106/201109/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010091212*D*MRS*RAK*20201106*ryan*FR%7C202010091057*D*RAK*MRS*20201109*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=42&qp_prevProvider=ins_month&rtn=1'
+     prix: "44€",
+     image: require('./Pictures/naples.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/mrs/napl/201023/201030/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010090351*D*MRS*NAP*20201023*skyp*FR%7C202010090351*D*NAP*MRS*20201030*skyp*FR&qp_prevCurrency=EUR&qp_prevPrice=25&qp_prevProvider=ins_month&rtn=1'
    }
 
 
