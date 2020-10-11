@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.6d4e8326.chunk.css",
-    "main.js": "/voyagesid/static/js/main.28f84e01.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.28f84e01.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.4e9ddf9a.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.4e9ddf9a.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
     "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.0961a240ea42b019cbf312fcbfd68816.js": "/voyagesid/precache-manifest.0961a240ea42b019cbf312fcbfd68816.js",
+    "precache-manifest.0311ddc8d0c6baed07d81cbea37aff10.js": "/voyagesid/precache-manifest.0311ddc8d0c6baed07d81cbea37aff10.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.6d4e8326.chunk.css.map": "/voyagesid/static/css/main.6d4e8326.chunk.css.map",
     "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Klm.jpg": "/voyagesid/static/media/Klm.3092252a.jpg",
-    "static/media/RiodeJaneiro.jpg": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg",
+    "static/media/AirCaraibes.jpg": "/voyagesid/static/media/AirCaraibes.22315092.jpg",
+    "static/media/Guadeloupe.jpg": "/voyagesid/static/media/Guadeloupe.0ce96746.jpg",
     "static/media/Ryanair.jpg": "/voyagesid/static/media/Ryanair.3aa29e02.jpg",
+    "static/media/Sevilla.jpg": "/voyagesid/static/media/Sevilla.708344cf.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/naples.jpg": "/voyagesid/static/media/naples.e7e9ae0f.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6bf2dfb5.chunk.js",
     "static/css/main.6d4e8326.chunk.css",
-    "static/js/main.28f84e01.chunk.js"
+    "static/js/main.4e9ddf9a.chunk.js"
   ]
 }

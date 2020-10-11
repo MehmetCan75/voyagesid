@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f01ba238b1a1eff39ef7c19ca5b6248e",
+    "revision": "864fe25f4a53d28b9d94c494261521e9",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "cccb7dbc238d5ee79d48",
+    "revision": "4cc25ba6a7b827835954",
     "url": "/voyagesid/static/css/main.6d4e8326.chunk.css"
   },
   {
@@ -16,24 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cccb7dbc238d5ee79d48",
-    "url": "/voyagesid/static/js/main.28f84e01.chunk.js"
+    "revision": "4cc25ba6a7b827835954",
+    "url": "/voyagesid/static/js/main.4e9ddf9a.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "3092252ab6365108f67e357dfddc9b43",
-    "url": "/voyagesid/static/media/Klm.3092252a.jpg"
+    "revision": "223150921eb8b91ac72e82cd3f7e96ea",
+    "url": "/voyagesid/static/media/AirCaraibes.22315092.jpg"
   },
   {
-    "revision": "8f40b4aa40e1823c0ce9ba0bef125516",
-    "url": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg"
+    "revision": "0ce967468edc1475e0ea514e388d26dc",
+    "url": "/voyagesid/static/media/Guadeloupe.0ce96746.jpg"
   },
   {
     "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
     "url": "/voyagesid/static/media/Ryanair.3aa29e02.jpg"
+  },
+  {
+    "revision": "708344cf2ab9db246b1141c2fba226ec",
+    "url": "/voyagesid/static/media/Sevilla.708344cf.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -46,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
-  },
-  {
-    "revision": "e7e9ae0f91244b76283c9fc030df898f",
-    "url": "/voyagesid/static/media/naples.e7e9ae0f.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
