@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "864fe25f4a53d28b9d94c494261521e9",
+    "revision": "1edb30d298e0e7b67383bfb744f675e6",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "4cc25ba6a7b827835954",
-    "url": "/voyagesid/static/css/main.6d4e8326.chunk.css"
+    "revision": "7e9f19adab620831d5be",
+    "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
     "revision": "4c5a3c28cd18d65b3296",
@@ -16,32 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cc25ba6a7b827835954",
-    "url": "/voyagesid/static/js/main.4e9ddf9a.chunk.js"
+    "revision": "7e9f19adab620831d5be",
+    "url": "/voyagesid/static/js/main.200f7cc0.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "223150921eb8b91ac72e82cd3f7e96ea",
-    "url": "/voyagesid/static/media/AirCaraibes.22315092.jpg"
+    "revision": "c06c3b8069dda61a4653c13453bc4774",
+    "url": "/voyagesid/static/media/AirFrance.c06c3b80.jpg"
   },
   {
-    "revision": "0ce967468edc1475e0ea514e388d26dc",
-    "url": "/voyagesid/static/media/Guadeloupe.0ce96746.jpg"
+    "revision": "7acbb05ab4fdd2d43ccae7603856e007",
+    "url": "/voyagesid/static/media/Larnaka.7acbb05a.jpg"
   },
   {
-    "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
-    "url": "/voyagesid/static/media/Ryanair.3aa29e02.jpg"
-  },
-  {
-    "revision": "708344cf2ab9db246b1141c2fba226ec",
-    "url": "/voyagesid/static/media/Sevilla.708344cf.jpg"
+    "revision": "402946fd94ef3349886d2ac3669621d0",
+    "url": "/voyagesid/static/media/Panama.402946fd.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "c355a07b5e69de6687f3ac2fd21306aa",
+    "url": "/voyagesid/static/media/Wizzair.c355a07b.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
