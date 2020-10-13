@@ -6,7 +6,7 @@ export default class CardBody extends Component {
     render() {
       return (
         <div className="card-body">
-        <h2 className="city">Destination:</h2> <h2 style={{display:"flex", justifyContent: "center",}}>{this.props.destination}</h2>
+       <h2 style={{display:"flex", justifyContent: "center",paddingTop:"2vh"}}>{this.props.destination}</h2>
           <div style={{display:"flex", justifyContent: "center",marginTop:"-12px"}}><img src={this.props.flag} alt="flag"/></div>
           <p className="date">Ville de Départ : {this.props.vd}</p>
           <p className="date">Aéroport de Départ : {this.props.ad}</p>

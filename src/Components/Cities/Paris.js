@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Larnaka",
-     flag: require('./Flag/cyprus.png'),
-     vd: "Paris/Beauvais",
-     ad: "BVA",
-     ar: "BVA",
-     dd: "26/03/21",
-     dr: "31/03/21",
-     hd: "19h25",
-     hr: "06h15",
-     ca: require('./Airlines/Wizzair.jpg'),
-     airlines: "Wizz Air",
-     prix: "30€",
-     image: require('./Pictures/Larnaka.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/larn/210326/210331/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010101321*D*BVA*LCA*20210326*wizz*W6%7C202010100124*D*LCA*BVA*20210331*wizz*W6&qp_prevCurrency=EUR&qp_prevPrice=30&qp_prevProvider=ins_month&rtn=1'
+     destination: "Cancún",
+     flag: require('./Flag/mexico.png'),
+     vd: "Paris",
+     ad: "CDG",
+     ar: "CDG",
+     dd: "12/01/21",
+     dr: "26/01/21",
+     hd: "07h25",
+     hr: "18h40",
+     ca: require('./Airlines/Lufthansa.jpg'),
+     airlines: "Lufthansa",
+     prix: "309€",
+     image: require('./Pictures/Cancun.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/cuna/210112/210126/?adultsv2=1&airlines=!DL,!KL,!AF,!UX,!UA,!B6,!VS,!AC,!LX,!AM,!AA,!AY,!SN,!IB,!OS,!BA,!multiple&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010131012*I*CDG*CUN*20210112*at24*LH%7C202010131012*I*CUN*CDG*20210126*at24*UA&qp_prevCurrency=EUR&qp_prevPrice=278&qp_prevProvider=ins_month&rtn=1'
    }
 
 
