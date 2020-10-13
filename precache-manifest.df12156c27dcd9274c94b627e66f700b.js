@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1edb30d298e0e7b67383bfb744f675e6",
+    "revision": "667f66d82c7c417eaa3c63dce29b0f7d",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "7e9f19adab620831d5be",
+    "revision": "4598d1850f69c98e9186",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,32 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e9f19adab620831d5be",
-    "url": "/voyagesid/static/js/main.200f7cc0.chunk.js"
+    "revision": "4598d1850f69c98e9186",
+    "url": "/voyagesid/static/js/main.5ab97db1.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "c06c3b8069dda61a4653c13453bc4774",
-    "url": "/voyagesid/static/media/AirFrance.c06c3b80.jpg"
+    "revision": "56d66848a53dbe5971a4c5412c4f7548",
+    "url": "/voyagesid/static/media/Cancun.56d66848.jpg"
   },
   {
-    "revision": "7acbb05ab4fdd2d43ccae7603856e007",
-    "url": "/voyagesid/static/media/Larnaka.7acbb05a.jpg"
+    "revision": "faaee4183496e6409264239d2a4f3a12",
+    "url": "/voyagesid/static/media/Kenya.faaee418.jpg"
   },
   {
-    "revision": "402946fd94ef3349886d2ac3669621d0",
-    "url": "/voyagesid/static/media/Panama.402946fd.jpg"
+    "revision": "651eac5432230392a48718b284146b3d",
+    "url": "/voyagesid/static/media/Lufthansa.651eac54.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
-    "revision": "c355a07b5e69de6687f3ac2fd21306aa",
-    "url": "/voyagesid/static/media/Wizzair.c355a07b.jpg"
+    "revision": "4c848ccd5f495e802130a83c0aca029d",
+    "url": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
