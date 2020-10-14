@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Cancún",
-     flag: require('./Flag/mexico.png'),
-     vd: "Paris",
-     ad: "CDG",
-     ar: "CDG",
-     dd: "12/01/21",
-     dr: "26/01/21",
-     hd: "07h25",
-     hr: "18h40",
-     ca: require('./Airlines/Lufthansa.jpg'),
-     airlines: "Lufthansa",
-     prix: "309€",
-     image: require('./Pictures/Cancun.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/cuna/210112/210126/?adultsv2=1&airlines=!DL,!KL,!AF,!UX,!UA,!B6,!VS,!AC,!LX,!AM,!AA,!AY,!SN,!IB,!OS,!BA,!multiple&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010131012*I*CDG*CUN*20210112*at24*LH%7C202010131012*I*CUN*CDG*20210126*at24*UA&qp_prevCurrency=EUR&qp_prevPrice=278&qp_prevProvider=ins_month&rtn=1'
+     destination: "Sofia",
+     flag: require('./Flag/bulgaria.png'),
+     vd: "Paris/Beauvais",
+     ad: "BVA",
+     ar: "BVA",
+     dd: "26/10/20",
+     dr: "29/10/20",
+     hd: "20h30",
+     hr: "16h50",
+     ca: require('./Airlines/Ryanair.jpg'),
+     airlines: "Ryanair",
+     prix: "46€",
+     image: require('./Pictures/Sofia.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/sofi/201023/201026/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010141205*D*BVA*SOF*20201023*ryan*FR%7C202010141334*D*SOF*BVA*20201026*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=46&qp_prevProvider=ins_month&rtn=1'
    }
 
 
