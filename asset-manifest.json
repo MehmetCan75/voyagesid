@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.5ab97db1.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.5ab97db1.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.a7fe4cc3.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.a7fe4cc3.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
-    "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
+    "static/js/2.cddb141c.chunk.js": "/voyagesid/static/js/2.cddb141c.chunk.js",
+    "static/js/2.cddb141c.chunk.js.map": "/voyagesid/static/js/2.cddb141c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.df12156c27dcd9274c94b627e66f700b.js": "/voyagesid/precache-manifest.df12156c27dcd9274c94b627e66f700b.js",
+    "precache-manifest.acc112149c50c724ebf09393dc536715.js": "/voyagesid/precache-manifest.acc112149c50c724ebf09393dc536715.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
-    "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Cancun.jpg": "/voyagesid/static/media/Cancun.56d66848.jpg",
-    "static/media/Kenya.jpg": "/voyagesid/static/media/Kenya.faaee418.jpg",
-    "static/media/Lufthansa.jpg": "/voyagesid/static/media/Lufthansa.651eac54.jpg",
+    "static/js/2.cddb141c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt",
+    "static/media/Ryanair.jpg": "/voyagesid/static/media/Ryanair.3aa29e02.jpg",
+    "static/media/Sofia.jpg": "/voyagesid/static/media/Sofia.837922c2.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/TurkishAirlines.jpg": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg",
+    "static/media/Valencia.jpg": "/voyagesid/static/media/Valencia.31b53194.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.6bf2dfb5.chunk.js",
+    "static/js/2.cddb141c.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.5ab97db1.chunk.js"
+    "static/js/main.a7fe4cc3.chunk.js"
   ]
 }
