@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Rome",
-     flag: require('./Flag/italy.png'),
+     destination: "Istanbul",
+     flag: require('./Flag/turkey.png'),
      vd: "Paris",
      ad: "ORY",
      ar: "ORY",
-     dd: "25/12/20",
-     dr: "01/01/21",
-     hd: "07h50",
-     hr: "10h25",
-     ca: require('./Airlines/Easyjet.jpg'),
-     airlines: "Easyjet",
-     prix: "68€",
-     image: require('./Pictures/Rome.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/rome/201225/210101/?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&preferflexible=false&ref=home&rtn=1'
+     dd: "07/11/20",
+     dr: "21/11/20",
+     hd: "16h00",
+     hr: "13h15",
+     ca: require('./Airlines/Pegasus.jpg'),
+     airlines: "Pegasus",
+     prix: "129€",
+     image: require('./Pictures/Istanbul2.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/ista/201107/201121/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010151744*D*CDG*SAW*20201107*ctfr*TK%7C202010151744*D*SAW*CDG*20201121*ctfr*TK&qp_prevCurrency=EUR&qp_prevPrice=84&qp_prevProvider=ins_month&rtn=1'
    }
 
 
