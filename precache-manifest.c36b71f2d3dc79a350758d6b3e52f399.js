@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89e3833104eb3fc0358f07af2702e5d1",
+    "revision": "13899fe5979899f8ec6a0e61717700cb",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "1d09a95aaaeba596e994",
+    "revision": "7c7d78095d61dc01493c",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
-    "revision": "7b44a501e64c159ea639",
-    "url": "/voyagesid/static/js/2.2935da63.chunk.js"
+    "revision": "4c5a3c28cd18d65b3296",
+    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d09a95aaaeba596e994",
-    "url": "/voyagesid/static/js/main.bd7392a9.chunk.js"
+    "revision": "7c7d78095d61dc01493c",
+    "url": "/voyagesid/static/js/main.0b0996ec.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "01ebe6d8437d031a687c1a026f36efe1",
-    "url": "/voyagesid/static/media/Easyjet.01ebe6d8.jpg"
+    "revision": "1095834bde56e147090026025bc7d2ec",
+    "url": "/voyagesid/static/media/Istanbul2.1095834b.jpg"
   },
   {
-    "revision": "cb61708d9484c151b02d90fe8469e63f",
-    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
+    "revision": "b9c8db4bc1e4d73c0df409660cdff473",
+    "url": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg"
   },
   {
     "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "1dfb0f95cd5a2c4abe443ac87fb54878",
+    "url": "/voyagesid/static/media/malta.1dfb0f95.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
