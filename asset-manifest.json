@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.0b0996ec.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.0b0996ec.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.4430780a.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.4430780a.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
     "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.c36b71f2d3dc79a350758d6b3e52f399.js": "/voyagesid/precache-manifest.c36b71f2d3dc79a350758d6b3e52f399.js",
+    "precache-manifest.e47d90b16e91232af4aaf968207e1c06.js": "/voyagesid/precache-manifest.e47d90b16e91232af4aaf968207e1c06.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
     "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Istanbul2.jpg": "/voyagesid/static/media/Istanbul2.1095834b.jpg",
-    "static/media/Pegasus.jpg": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg",
-    "static/media/Ryanair.jpg": "/voyagesid/static/media/Ryanair.3aa29e02.jpg",
+    "static/media/Lufthansa.jpg": "/voyagesid/static/media/Lufthansa.651eac54.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
+    "static/media/Thailande.jpg": "/voyagesid/static/media/Thailande.2c588df4.jpg",
+    "static/media/Tokyo.jpg": "/voyagesid/static/media/Tokyo.1a3e3175.jpg",
+    "static/media/TurkishAirlines.jpg": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/malta.jpg": "/voyagesid/static/media/malta.1dfb0f95.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6bf2dfb5.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.0b0996ec.chunk.js"
+    "static/js/main.4430780a.chunk.js"
   ]
 }

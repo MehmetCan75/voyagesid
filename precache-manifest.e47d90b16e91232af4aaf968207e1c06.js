@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13899fe5979899f8ec6a0e61717700cb",
+    "revision": "07654e0ac507706e187e65712ec3461b",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "7c7d78095d61dc01493c",
+    "revision": "a318177260723b80f99b",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,28 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c7d78095d61dc01493c",
-    "url": "/voyagesid/static/js/main.0b0996ec.chunk.js"
+    "revision": "a318177260723b80f99b",
+    "url": "/voyagesid/static/js/main.4430780a.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "1095834bde56e147090026025bc7d2ec",
-    "url": "/voyagesid/static/media/Istanbul2.1095834b.jpg"
-  },
-  {
-    "revision": "b9c8db4bc1e4d73c0df409660cdff473",
-    "url": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg"
-  },
-  {
-    "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
-    "url": "/voyagesid/static/media/Ryanair.3aa29e02.jpg"
+    "revision": "651eac5432230392a48718b284146b3d",
+    "url": "/voyagesid/static/media/Lufthansa.651eac54.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "2c588df4f2385631f4103d469dfd6e24",
+    "url": "/voyagesid/static/media/Thailande.2c588df4.jpg"
+  },
+  {
+    "revision": "1a3e31755e2db15a4854b0cbf7f4667f",
+    "url": "/voyagesid/static/media/Tokyo.1a3e3175.jpg"
+  },
+  {
+    "revision": "4c848ccd5f495e802130a83c0aca029d",
+    "url": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -46,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
-  },
-  {
-    "revision": "1dfb0f95cd5a2c4abe443ac87fb54878",
-    "url": "/voyagesid/static/media/malta.1dfb0f95.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",
