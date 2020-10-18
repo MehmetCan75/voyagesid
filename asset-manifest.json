@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.4430780a.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.4430780a.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.a7046709.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.a7046709.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
-    "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
+    "static/js/2.cddb141c.chunk.js": "/voyagesid/static/js/2.cddb141c.chunk.js",
+    "static/js/2.cddb141c.chunk.js.map": "/voyagesid/static/js/2.cddb141c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.e47d90b16e91232af4aaf968207e1c06.js": "/voyagesid/precache-manifest.e47d90b16e91232af4aaf968207e1c06.js",
+    "precache-manifest.b3ba6bed84acc003925d572ecaa08f80.js": "/voyagesid/precache-manifest.b3ba6bed84acc003925d572ecaa08f80.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
-    "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Lufthansa.jpg": "/voyagesid/static/media/Lufthansa.651eac54.jpg",
+    "static/js/2.cddb141c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt",
+    "static/media/Klm.jpg": "/voyagesid/static/media/Klm.3092252a.jpg",
+    "static/media/Norwegian.jpg": "/voyagesid/static/media/Norwegian.ad514496.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/Thailande.jpg": "/voyagesid/static/media/Thailande.2c588df4.jpg",
-    "static/media/Tokyo.jpg": "/voyagesid/static/media/Tokyo.1a3e3175.jpg",
-    "static/media/TurkishAirlines.jpg": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg",
+    "static/media/Stockholm2.jpg": "/voyagesid/static/media/Stockholm2.fc3278d6.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.6bf2dfb5.chunk.js",
+    "static/js/2.cddb141c.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.4430780a.chunk.js"
+    "static/js/main.a7046709.chunk.js"
   ]
 }
