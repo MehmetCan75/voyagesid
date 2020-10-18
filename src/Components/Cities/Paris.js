@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Tokyo",
-     flag: require('./Flag/japan.png'),
+     destination: "Stockholm",
+     flag: require('./Flag/sweden.png'),
      vd: "Paris",
      ad: "CDG",
      ar: "CDG",
-     dd: "03/03/21",
-     dr: "18/03/21",
-     hd: "18h40",
-     hr: "22h55",
-     ca: require('./Airlines/TurkishAirlines.jpg'),
-     airlines: "Turkish Airlines",
-     prix: "489€",
-     image: require('./Pictures/Tokyo.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/tyoa/210303/210318/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=&qp_prevCurrency=EUR&qp_prevPrice=ReturnNoPrices&qp_prevProvider=ins_month&rtn=1'
+     dd: "11/03/21",
+     dr: "14/03/21",
+     hd: "12h25",
+     hr: "16h50",
+     ca: require('./Airlines/Norwegian.jpg'),
+     airlines: "Norwegian",
+     prix: "101€",
+     image: require('./Pictures/Stockholm.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/stoc/210311/210314/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010150538*D*CDG*ARN*20210311*skyp*DY%7C202010150538*D*ARN*CDG*20210314*skyp*DY&qp_prevCurrency=EUR&qp_prevPrice=102&qp_prevProvider=ins_month&rtn=1'
    }
 
 
