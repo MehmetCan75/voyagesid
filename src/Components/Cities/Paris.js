@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Lisbonne",
-     flag: require('./Flag/portugal.png'),
+     destination: "Bombay",
+     flag: require('./Flag/india.png'),
      vd: "Paris",
      ad: "CDG",
      ar: "CDG",
-     dd: "11/12/20",
-     dr: "14/12/20",
-     hd: "19h25",
-     hr: "11h00",
-     ca: require('./Airlines/Easyjet.jpg'),
-     airlines: "Easyjet",
-     prix: "57€",
-     image: require('./Pictures/lisboa.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/lisb/201211/201214/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010190346*D*BVA*LIS*20201211*ryan*FR%7C202010191049*D*LIS*BVA*20201214*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=30&qp_prevProvider=ins_month&rtn=1'
+     dd: "15/03/21",
+     dr: "31/03/21",
+     hd: "07h00",
+     hr: "01h15",
+     ca: require('./Airlines/Swissair.jpg'),
+     airlines: "Swissair",
+     prix: "369€",
+     image: require('./Pictures/India.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/pari/idel/210315/210331/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010151116*I*CDG*DEL*20210315*luft*LH%7C202010151116*I*DEL*CDG*20210331*luft*LX&qp_prevCurrency=EUR&qp_prevPrice=370&qp_prevProvider=ins_month&rtn=1'
    }
 
 

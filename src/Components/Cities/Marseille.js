@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Marrakech",
-     flag: require('./Flag/morocco.png'),
+     destination: "Mexico",
+     flag: require('./Flag/mexico.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
-     dd: "23/11/20",
-     dr: "27/11/20",
-     hd: "10h45",
-     hr: "17h50",
-     ca: require('./Airlines/Ryanair.jpg'),
-     airlines: "Ryanair",
-     prix: "20€",
-     image: require('./Pictures/marrakech.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/mrs/marr/201123/201127/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010191057*D*MRS*RAK*20201123*opfr*FR%7C202010191057*D*RAK*MRS*20201127*opfr*FR&qp_prevCurrency=EUR&qp_prevPrice=21&qp_prevProvider=ins_month&rtn=1'
+     dd: "02/01/21",
+     dr: "21/01/21",
+     hd: "11h25",
+     hr: "19h55",
+     ca: require('./Airlines/Klm.jpg'),
+     airlines: "KLM + Air France",
+     prix: "346€",
+     image: require('./Pictures/Mexique.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/mrs/mexa/210102/210121/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010180102*I*MRS*MEX*20210102*lmfr*LH%7C202010180102*I*MEX*MRS*20210121*lmfr*AC&qp_prevCurrency=EUR&qp_prevPrice=313&qp_prevProvider=ins_month&rtn=1'
    }
 
 
