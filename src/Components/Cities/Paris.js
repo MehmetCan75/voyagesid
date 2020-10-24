@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Athènes",
-     flag: require('./Flag/greece.png'),
+     destination: "San José",
+     flag: require('./Flag/costa-rica.png'),
      vd: "Paris",
-     ad: "ORY",
-     ar: "ORY",
+     ad: "CDG",
+     ar: "CDG",
      dd: "06/11/20",
-     dr: "13/11/20",
-     hd: "06h20",
-     hr: "11h25",
-     ca: require('./Airlines/Transavia.jpg'),
-     airlines: "Transavia",
-     prix: "110€",
-     image: require('./Pictures/athenes.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/pari/athe/201106/201113/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010201646*I*BVA*ATH*20201106*gtbf*FR%7C202010201646*I*ATH*BVA*20201113*gtbf*W6&qp_prevCurrency=EUR&qp_prevPrice=71&qp_prevProvider=ins_month&rtn=1'
+     dr: "24/11/20",
+     hd: "07h10",
+     hr: "13h53",
+     ca: require('./Airlines/Klm.jpg'),
+     airlines: "KLM",
+     prix: "480€",
+     image: require('./Pictures/CostaRica.jpg'),
+     link : 'https://www.skyscanner.fr/transport/flights/pari/sjoa/201106/201124/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010221925*I*CDG*SJO*20201106*atfr*KL%7C202010221925*I*SJO*CDG*20201124*atfr*KL&qp_prevCurrency=EUR&qp_prevPrice=480&qp_prevProvider=ins_month&rtn=1'
    }
 
 
