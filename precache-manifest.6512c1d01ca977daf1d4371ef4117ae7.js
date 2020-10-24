@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2fe73c5cb1d830859774d4e21a975ce",
+    "revision": "f798fa1cd67891c09d743ec85caf0096",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "f0b24f45a926e8ec9c65",
+    "revision": "c1412c67c7486c18210a",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,36 +16,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0b24f45a926e8ec9c65",
-    "url": "/voyagesid/static/js/main.05776892.chunk.js"
+    "revision": "c1412c67c7486c18210a",
+    "url": "/voyagesid/static/js/main.3accd03b.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
-    "url": "/voyagesid/static/media/Ryanair.3aa29e02.jpg"
+    "revision": "430a15c4056c8470e5bbca4ecb9041ad",
+    "url": "/voyagesid/static/media/CostaRica.430a15c4.jpg"
+  },
+  {
+    "revision": "bcf962244dc3c17d9b5fa789ca58ae03",
+    "url": "/voyagesid/static/media/Istanbul.bcf96224.jpg"
+  },
+  {
+    "revision": "3092252ab6365108f67e357dfddc9b43",
+    "url": "/voyagesid/static/media/Klm.3092252a.jpg"
+  },
+  {
+    "revision": "b9c8db4bc1e4d73c0df409660cdff473",
+    "url": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
   },
   {
-    "revision": "8faa74d07e1b61dcb5ef67e0a74c19aa",
-    "url": "/voyagesid/static/media/Transavia.8faa74d0.jpg"
-  },
-  {
-    "revision": "abe8b91b0860f543b0dbb401ccf23a6a",
-    "url": "/voyagesid/static/media/athenes.abe8b91b.jpg"
-  },
-  {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
-  },
-  {
-    "revision": "4775be1fe49e70aa9cce55d2bbc8e01e",
-    "url": "/voyagesid/static/media/faro.4775be1f.jpg"
   },
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
