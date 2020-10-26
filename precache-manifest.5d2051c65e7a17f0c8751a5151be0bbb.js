@@ -1,43 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f798fa1cd67891c09d743ec85caf0096",
+    "revision": "84a02091a6468286531972172936a78f",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "c1412c67c7486c18210a",
+    "revision": "a5a92b05f9fab72d7d72",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
-    "revision": "4c5a3c28cd18d65b3296",
-    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js"
+    "revision": "294a0b44639199268d8b",
+    "url": "/voyagesid/static/js/2.cddb141c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1412c67c7486c18210a",
-    "url": "/voyagesid/static/js/main.3accd03b.chunk.js"
+    "revision": "a5a92b05f9fab72d7d72",
+    "url": "/voyagesid/static/js/main.648aec7b.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "430a15c4056c8470e5bbca4ecb9041ad",
-    "url": "/voyagesid/static/media/CostaRica.430a15c4.jpg"
+    "revision": "3aa29e02fe7fdee5833525aff3e48ffc",
+    "url": "/voyagesid/static/media/Ryanair.3aa29e02.jpg"
   },
   {
-    "revision": "bcf962244dc3c17d9b5fa789ca58ae03",
-    "url": "/voyagesid/static/media/Istanbul.bcf96224.jpg"
-  },
-  {
-    "revision": "3092252ab6365108f67e357dfddc9b43",
-    "url": "/voyagesid/static/media/Klm.3092252a.jpg"
-  },
-  {
-    "revision": "b9c8db4bc1e4d73c0df409660cdff473",
-    "url": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg"
+    "revision": "708344cf2ab9db246b1141c2fba226ec",
+    "url": "/voyagesid/static/media/Sevilla.708344cf.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -50,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
+  },
+  {
+    "revision": "3ec9d0a862ec03756258c758af6ff8d3",
+    "url": "/voyagesid/static/media/palerme.3ec9d0a8.jpg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",

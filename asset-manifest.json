@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.3accd03b.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.3accd03b.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.648aec7b.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.648aec7b.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
-    "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
+    "static/js/2.cddb141c.chunk.js": "/voyagesid/static/js/2.cddb141c.chunk.js",
+    "static/js/2.cddb141c.chunk.js.map": "/voyagesid/static/js/2.cddb141c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.6512c1d01ca977daf1d4371ef4117ae7.js": "/voyagesid/precache-manifest.6512c1d01ca977daf1d4371ef4117ae7.js",
+    "precache-manifest.5d2051c65e7a17f0c8751a5151be0bbb.js": "/voyagesid/precache-manifest.5d2051c65e7a17f0c8751a5151be0bbb.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
-    "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/CostaRica.jpg": "/voyagesid/static/media/CostaRica.430a15c4.jpg",
-    "static/media/Istanbul.jpg": "/voyagesid/static/media/Istanbul.bcf96224.jpg",
-    "static/media/Klm.jpg": "/voyagesid/static/media/Klm.3092252a.jpg",
-    "static/media/Pegasus.jpg": "/voyagesid/static/media/Pegasus.b9c8db4b.jpg",
+    "static/js/2.cddb141c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt",
+    "static/media/Ryanair.jpg": "/voyagesid/static/media/Ryanair.3aa29e02.jpg",
+    "static/media/Sevilla.jpg": "/voyagesid/static/media/Sevilla.708344cf.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
+    "static/media/palerme.jpg": "/voyagesid/static/media/palerme.3ec9d0a8.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.6bf2dfb5.chunk.js",
+    "static/js/2.cddb141c.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.3accd03b.chunk.js"
+    "static/js/main.648aec7b.chunk.js"
   ]
 }
