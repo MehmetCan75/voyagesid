@@ -7,20 +7,20 @@ import CardHeader from './Card/CardHeader'
 
  export default class Card extends Component {
    state = {
-     destination: "Istanbul",
-     flag: require('./Flag/turkey.png'),
+     destination: "Séville",
+     flag: require('./Flag/spain.png'),
      vd: "Marseille",
      ad: "MRS",
      ar: "MRS",
-     dd: "06/11/20",
-     dr: "10/11/20",
-     hd: "13h40",
-     hr: "11h25",
-     ca: require('./Airlines/Pegasus.jpg'),
-     airlines: "Pegasus",
-     prix: "76€",
-     image: require('./Pictures/Istanbul.jpg'),
-     link : 'https://www.skyscanner.fr/transport/vols/mrs/ista/201106/201110/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010240946*D*MRS*SAW*20201106*ctfr*PC%7C202010240946*D*SAW*MRS*20201110*ctfr*PC&qp_prevCurrency=EUR&qp_prevPrice=86&qp_prevProvider=ins_month&rtn=1'
+     dd: "04/11/20",
+     dr: "11/11/20",
+     hd: "18h40",
+     hr: "16h10",
+     ca: require('./Airlines/Ryanair.jpg'),
+     airlines: "Ryanair",
+     prix: "35€",
+     image: require('./Pictures/Sevilla.jpg'),
+     link : 'https://www.skyscanner.fr/transport/vols/mrs/sevi/201104/201111/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&priceSourceId=&priceTrace=202010261224*D*MRS*SVQ*20201104*ryan*FR%7C202010261147*D*SVQ*MRS*20201111*ryan*FR&qp_prevCurrency=EUR&qp_prevPrice=35&qp_prevProvider=ins_month&rtn=1'
    }
 
 
