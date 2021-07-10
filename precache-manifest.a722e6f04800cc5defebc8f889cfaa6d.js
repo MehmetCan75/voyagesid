@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94e0dc40441f015249371cd1b8e5adb8",
+    "revision": "b5d223798d9af3c75706196fa30ab592",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "d2cc8ac3412139360231",
+    "revision": "680660321efd4af0ba7e",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2cc8ac3412139360231",
-    "url": "/voyagesid/static/js/main.7ed32a55.chunk.js"
+    "revision": "680660321efd4af0ba7e",
+    "url": "/voyagesid/static/js/main.71724028.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
+    "revision": "a2afaa3724a897bccd1cf1f89cbf80bd",
+    "url": "/voyagesid/static/media/Brasilia.a2afaa37.jpeg"
+  },
+  {
+    "revision": "51843cb8e72fa1d5b5fa8402bddd422c",
+    "url": "/voyagesid/static/media/Florianopolis.51843cb8.jpeg"
+  },
+  {
     "revision": "b939f765888f03de4d53301bfa4c25f7",
     "url": "/voyagesid/static/media/Latam.b939f765.jpg"
-  },
-  {
-    "revision": "b7321d1de9ae00c009a2479bd3251ea7",
-    "url": "/voyagesid/static/media/Maceio5.b7321d1d.jpg"
-  },
-  {
-    "revision": "2031d8cc524763bd8c1a16ed55d38efb",
-    "url": "/voyagesid/static/media/Salvador.2031d8cc.jpeg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
