@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5d223798d9af3c75706196fa30ab592",
+    "revision": "5fd90b5dc599e149c8899f6fcbe7eb40",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "680660321efd4af0ba7e",
+    "revision": "d27dc6c9ce2368aa634c",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,24 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "680660321efd4af0ba7e",
-    "url": "/voyagesid/static/js/main.71724028.chunk.js"
+    "revision": "d27dc6c9ce2368aa634c",
+    "url": "/voyagesid/static/js/main.db94d153.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "a2afaa3724a897bccd1cf1f89cbf80bd",
-    "url": "/voyagesid/static/media/Brasilia.a2afaa37.jpeg"
-  },
-  {
-    "revision": "51843cb8e72fa1d5b5fa8402bddd422c",
-    "url": "/voyagesid/static/media/Florianopolis.51843cb8.jpeg"
-  },
-  {
     "revision": "b939f765888f03de4d53301bfa4c25f7",
     "url": "/voyagesid/static/media/Latam.b939f765.jpg"
+  },
+  {
+    "revision": "33c652b126a9582250940459bf76906c",
+    "url": "/voyagesid/static/media/Natal.33c652b1.jpeg"
+  },
+  {
+    "revision": "91d3e79c92aab6c251bc6131a087c377",
+    "url": "/voyagesid/static/media/PortoAlegre.91d3e79c.jpeg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
