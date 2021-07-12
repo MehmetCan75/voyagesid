@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fd90b5dc599e149c8899f6fcbe7eb40",
+    "revision": "aec860d8fb4af5fa98a61ee7b1b7b4d8",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "d27dc6c9ce2368aa634c",
+    "revision": "1e652f3100704bc0419d",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,24 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d27dc6c9ce2368aa634c",
-    "url": "/voyagesid/static/js/main.db94d153.chunk.js"
+    "revision": "1e652f3100704bc0419d",
+    "url": "/voyagesid/static/js/main.77869a58.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "b939f765888f03de4d53301bfa4c25f7",
-    "url": "/voyagesid/static/media/Latam.b939f765.jpg"
+    "revision": "71d8bb9561cbbfee8249e7cec5f995f8",
+    "url": "/voyagesid/static/media/Gol.71d8bb95.png"
   },
   {
-    "revision": "33c652b126a9582250940459bf76906c",
-    "url": "/voyagesid/static/media/Natal.33c652b1.jpeg"
-  },
-  {
-    "revision": "91d3e79c92aab6c251bc6131a087c377",
-    "url": "/voyagesid/static/media/PortoAlegre.91d3e79c.jpeg"
+    "revision": "8f40b4aa40e1823c0ce9ba0bef125516",
+    "url": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -42,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
+  },
+  {
+    "revision": "ac78a0953e6580ecddcfdfff6819e9e3",
+    "url": "/voyagesid/static/media/goiania.ac78a095.jpeg"
   },
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
