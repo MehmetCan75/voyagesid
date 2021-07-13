@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ddbe33803adb5435e3cabed979fd066",
+    "revision": "63e562bb3eee4d55e92fab636740c839",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "5017b2521cbefd2a0d9f",
+    "revision": "378de0235bc0f1a47a82",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5017b2521cbefd2a0d9f",
-    "url": "/voyagesid/static/js/main.61053341.chunk.js"
+    "revision": "378de0235bc0f1a47a82",
+    "url": "/voyagesid/static/js/main.679b7337.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
   },
   {
-    "revision": "c70c91731dff2d6e0387231fd73c1868",
-    "url": "/voyagesid/static/media/iguaçu3.c70c9173.jpeg"
+    "revision": "e4633f462db5ed23b21fbbf4bca358e6",
+    "url": "/voyagesid/static/media/iguacu2.e4633f46.jpeg"
   },
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
