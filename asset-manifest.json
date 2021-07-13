@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.77869a58.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.77869a58.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.e906939d.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.e906939d.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.2935da63.chunk.js": "/voyagesid/static/js/2.2935da63.chunk.js",
     "static/js/2.2935da63.chunk.js.map": "/voyagesid/static/js/2.2935da63.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.c9a789f0e3e880a43a25feb3dc06c211.js": "/voyagesid/precache-manifest.c9a789f0e3e880a43a25feb3dc06c211.js",
+    "precache-manifest.41a19e67717ce2af4615eb88fb287bcb.js": "/voyagesid/precache-manifest.41a19e67717ce2af4615eb88fb287bcb.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
     "static/js/2.2935da63.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt",
-    "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
-    "static/media/RiodeJaneiro.jpg": "/voyagesid/static/media/RiodeJaneiro.8f40b4aa.jpg",
+    "static/media/Latam.jpg": "/voyagesid/static/media/Latam.b939f765.jpg",
+    "static/media/Recife.jpeg": "/voyagesid/static/media/Recife.97680f1e.jpeg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/goiania.jpeg": "/voyagesid/static/media/goiania.ac78a095.jpeg",
+    "static/media/iguaçu2.jpeg": "/voyagesid/static/media/iguaçu2.e4633f46.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.2935da63.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.77869a58.chunk.js"
+    "static/js/main.e906939d.chunk.js"
   ]
 }
