@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.64bcf49c.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.64bcf49c.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.2cf905d4.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.2cf905d4.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.cddb141c.chunk.js": "/voyagesid/static/js/2.cddb141c.chunk.js",
     "static/js/2.cddb141c.chunk.js.map": "/voyagesid/static/js/2.cddb141c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.5f73496b8809b86690227353463a4586.js": "/voyagesid/precache-manifest.5f73496b8809b86690227353463a4586.js",
+    "precache-manifest.fcb5ef56256b057b5474b16b8723eb47.js": "/voyagesid/precache-manifest.fcb5ef56256b057b5474b16b8723eb47.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
     "static/js/2.cddb141c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt",
-    "static/media/Aracaju.jpeg": "/voyagesid/static/media/Aracaju.90343313.jpeg",
-    "static/media/Cuiaba.jpeg": "/voyagesid/static/media/Cuiaba.bc11379f.jpeg",
-    "static/media/Latam.jpg": "/voyagesid/static/media/Latam.b939f765.jpg",
+    "static/media/BeloHorizonte2.jpeg": "/voyagesid/static/media/BeloHorizonte2.702c53c5.jpeg",
+    "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
+    "static/media/Salvador.jpeg": "/voyagesid/static/media/Salvador.2031d8cc.jpeg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
+    "static/media/azulegol.png": "/voyagesid/static/media/azulegol.d177c680.png",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
@@ -23,6 +24,6 @@
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.cddb141c.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.64bcf49c.chunk.js"
+    "static/js/main.2cf905d4.chunk.js"
   ]
 }

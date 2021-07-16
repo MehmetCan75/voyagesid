@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4aaa6efd1858c7cb002945a8e5a791a",
+    "revision": "85c9c658355b92d136bc46d1b6f66cbf",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "b12d19520c254d3f85fd",
+    "revision": "81a4654953fc90dabb69",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
@@ -16,28 +16,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b12d19520c254d3f85fd",
-    "url": "/voyagesid/static/js/main.64bcf49c.chunk.js"
+    "revision": "81a4654953fc90dabb69",
+    "url": "/voyagesid/static/js/main.2cf905d4.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "903433133494076dfdd317dc4efb4a6e",
-    "url": "/voyagesid/static/media/Aracaju.90343313.jpeg"
+    "revision": "702c53c5f7b9335bb067cbf81ebca7b7",
+    "url": "/voyagesid/static/media/BeloHorizonte2.702c53c5.jpeg"
   },
   {
-    "revision": "bc11379f1a029ee7a78369e7a00662ce",
-    "url": "/voyagesid/static/media/Cuiaba.bc11379f.jpeg"
+    "revision": "71d8bb9561cbbfee8249e7cec5f995f8",
+    "url": "/voyagesid/static/media/Gol.71d8bb95.png"
   },
   {
-    "revision": "b939f765888f03de4d53301bfa4c25f7",
-    "url": "/voyagesid/static/media/Latam.b939f765.jpg"
+    "revision": "2031d8cc524763bd8c1a16ed55d38efb",
+    "url": "/voyagesid/static/media/Salvador.2031d8cc.jpeg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "d177c680d9a0ee9040f3d2361707d5d1",
+    "url": "/voyagesid/static/media/azulegol.d177c680.png"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
