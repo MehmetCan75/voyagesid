@@ -12,7 +12,7 @@ import CardHeader from './Card/CardHeader'
      vd: "Paris/Beauvais",
      ad: "BVA",
      ar: "BVA",
-     dd: "12/12/20",
+     dd: "10/12/20",
      dr: "15/12/20",
      hd: "15h20",
      hr: "13h50",
