@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.127c7640.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.127c7640.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.c047b5fd.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.c047b5fd.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.2935da63.chunk.js": "/voyagesid/static/js/2.2935da63.chunk.js",
     "static/js/2.2935da63.chunk.js.map": "/voyagesid/static/js/2.2935da63.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.729739e5b12f86eef49f53bbd1e5d30e.js": "/voyagesid/precache-manifest.729739e5b12f86eef49f53bbd1e5d30e.js",
+    "precache-manifest.4f6d153c4e8ce0b1108525273e8645e7.js": "/voyagesid/precache-manifest.4f6d153c4e8ce0b1108525273e8645e7.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
     "static/js/2.2935da63.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt",
+    "static/media/Florianopolis2.jpeg": "/voyagesid/static/media/Florianopolis2.3a426d66.jpeg",
     "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
-    "static/media/PortoAlegre.jpeg": "/voyagesid/static/media/PortoAlegre.91d3e79c.jpeg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/goiania.jpeg": "/voyagesid/static/media/goiania.ac78a095.jpeg",
-    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
+    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
+    "static/media/saopaulo.jpeg": "/voyagesid/static/media/saopaulo.420acf83.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.2935da63.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.127c7640.chunk.js"
+    "static/js/main.c047b5fd.chunk.js"
   ]
 }
