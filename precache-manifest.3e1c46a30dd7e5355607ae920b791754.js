@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4e6ee9746cb53250fb706cc4b65d643",
+    "revision": "7e4b7cb1199ace9d38dba6c8f855b988",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "8d993ef06962918ebef3",
+    "revision": "0c9bb99c5ba43cd28d63",
     "url": "/voyagesid/static/css/main.7f3f69e0.chunk.css"
   },
   {
-    "revision": "4c5a3c28cd18d65b3296",
-    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js"
+    "revision": "294a0b44639199268d8b",
+    "url": "/voyagesid/static/js/2.cddb141c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d993ef06962918ebef3",
-    "url": "/voyagesid/static/js/main.01ad5fd2.chunk.js"
+    "revision": "0c9bb99c5ba43cd28d63",
+    "url": "/voyagesid/static/js/main.d36f5d28.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "14c7b621503e8e28e337cdaf5b8486dd",
-    "url": "/voyagesid/static/media/Alitalia.14c7b621.jpg"
+    "revision": "3a426d66ff285f2e3849cbf53b650434",
+    "url": "/voyagesid/static/media/Florianopolis2.3a426d66.jpeg"
   },
   {
-    "revision": "c8b0b53ce654473967f16843c729a1b2",
-    "url": "/voyagesid/static/media/Barcelona.c8b0b53c.jpeg"
+    "revision": "71d8bb9561cbbfee8249e7cec5f995f8",
+    "url": "/voyagesid/static/media/Gol.71d8bb95.png"
   },
   {
-    "revision": "cb61708d9484c151b02d90fe8469e63f",
-    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
+    "revision": "b939f765888f03de4d53301bfa4c25f7",
+    "url": "/voyagesid/static/media/Latam.b939f765.jpg"
+  },
+  {
+    "revision": "2031d8cc524763bd8c1a16ed55d38efb",
+    "url": "/voyagesid/static/media/Salvador.2031d8cc.jpeg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -54,9 +58,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f53112799a9b594e2ab4ddd4fd7555c",
     "url": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
-  },
-  {
-    "revision": "4ec5390974ece1d15852c1face1b9281",
-    "url": "/voyagesid/static/media/tap.4ec53909.png"
   }
 ]);
