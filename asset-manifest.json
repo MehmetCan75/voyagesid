@@ -1,29 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.90869087.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.90869087.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.c8b9844c.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.c8b9844c.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
-    "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
+    "static/js/2.2935da63.chunk.js": "/voyagesid/static/js/2.2935da63.chunk.js",
+    "static/js/2.2935da63.chunk.js.map": "/voyagesid/static/js/2.2935da63.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.b0800f99db48db8d997a5d42af780f38.js": "/voyagesid/precache-manifest.b0800f99db48db8d997a5d42af780f38.js",
+    "precache-manifest.df7baf9447e83e2ea0879807283fb10b.js": "/voyagesid/precache-manifest.df7baf9447e83e2ea0879807283fb10b.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
-    "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/Brasilia.jpeg": "/voyagesid/static/media/Brasilia.a2afaa37.jpeg",
+    "static/js/2.2935da63.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.2935da63.chunk.js.LICENSE.txt",
+    "static/media/BeloHorizonte.jpeg": "/voyagesid/static/media/BeloHorizonte.5d3ade55.jpeg",
     "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/paris2.jpeg": "/voyagesid/static/media/paris2.40e31d01.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
-    "static/media/tap.png": "/voyagesid/static/media/tap.4ec53909.png"
+    "static/media/saopaulo.jpeg": "/voyagesid/static/media/saopaulo.420acf83.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.6bf2dfb5.chunk.js",
+    "static/js/2.2935da63.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.90869087.chunk.js"
+    "static/js/main.c8b9844c.chunk.js"
   ]
 }
