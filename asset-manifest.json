@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.964a3011.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.964a3011.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.a9eb6455.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.a9eb6455.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.6bf2dfb5.chunk.js": "/voyagesid/static/js/2.6bf2dfb5.chunk.js",
     "static/js/2.6bf2dfb5.chunk.js.map": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.665a4edded92b5e7db7fdae6c371db63.js": "/voyagesid/precache-manifest.665a4edded92b5e7db7fdae6c371db63.js",
+    "precache-manifest.e4df9a81f2de22d63ff74b0732b5e699.js": "/voyagesid/precache-manifest.e4df9a81f2de22d63ff74b0732b5e699.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
     "static/js/2.6bf2dfb5.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.6bf2dfb5.chunk.js.LICENSE.txt",
-    "static/media/CostaRica.jpg": "/voyagesid/static/media/CostaRica.430a15c4.jpg",
-    "static/media/Madrid.jpg": "/voyagesid/static/media/Madrid.0583d6d9.jpg",
+    "static/media/BeloHorizonte.jpeg": "/voyagesid/static/media/BeloHorizonte.5d3ade55.jpeg",
+    "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/copa.png": "/voyagesid/static/media/copa.9c8b18bc.png",
+    "static/media/milan.jpg": "/voyagesid/static/media/milan.c21aa787.jpg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
     "static/media/tap.png": "/voyagesid/static/media/tap.4ec53909.png"
   },
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.6bf2dfb5.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.964a3011.chunk.js"
+    "static/js/main.a9eb6455.chunk.js"
   ]
 }
