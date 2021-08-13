@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.b4408d77.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.b4408d77.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.78936c5a.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.78936c5a.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
     "static/js/2.cddb141c.chunk.js": "/voyagesid/static/js/2.cddb141c.chunk.js",
     "static/js/2.cddb141c.chunk.js.map": "/voyagesid/static/js/2.cddb141c.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.55fa49c20f2bbe2eac7d52b414679bf4.js": "/voyagesid/precache-manifest.55fa49c20f2bbe2eac7d52b414679bf4.js",
+    "precache-manifest.3510d21e825fe744ed5fa559ed684cca.js": "/voyagesid/precache-manifest.3510d21e825fe744ed5fa559ed684cca.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
     "static/js/2.cddb141c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.e395e0de.js",
     "static/js/2.cddb141c.chunk.js",
     "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.b4408d77.chunk.js"
+    "static/js/main.78936c5a.chunk.js"
   ]
 }
