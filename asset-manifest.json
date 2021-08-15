@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/voyagesid/static/css/main.7f3f69e0.chunk.css",
-    "main.js": "/voyagesid/static/js/main.78936c5a.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.78936c5a.chunk.js.map",
+    "main.css": "/voyagesid/static/css/main.79896ad8.chunk.css",
+    "main.js": "/voyagesid/static/js/main.c698b060.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.c698b060.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.cddb141c.chunk.js": "/voyagesid/static/js/2.cddb141c.chunk.js",
-    "static/js/2.cddb141c.chunk.js.map": "/voyagesid/static/js/2.cddb141c.chunk.js.map",
+    "static/js/2.56dd27d3.chunk.js": "/voyagesid/static/js/2.56dd27d3.chunk.js",
+    "static/js/2.56dd27d3.chunk.js.map": "/voyagesid/static/js/2.56dd27d3.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.3510d21e825fe744ed5fa559ed684cca.js": "/voyagesid/precache-manifest.3510d21e825fe744ed5fa559ed684cca.js",
+    "precache-manifest.ac97903190bc8b89089e62e9bf8e4f13.js": "/voyagesid/precache-manifest.ac97903190bc8b89089e62e9bf8e4f13.js",
     "service-worker.js": "/voyagesid/service-worker.js",
-    "static/css/main.7f3f69e0.chunk.css.map": "/voyagesid/static/css/main.7f3f69e0.chunk.css.map",
-    "static/js/2.cddb141c.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cddb141c.chunk.js.LICENSE.txt",
-    "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
+    "static/css/main.79896ad8.chunk.css.map": "/voyagesid/static/css/main.79896ad8.chunk.css.map",
+    "static/js/2.56dd27d3.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.56dd27d3.chunk.js.LICENSE.txt",
+    "static/media/Barcelona.jpeg": "/voyagesid/static/media/Barcelona.c8b0b53c.jpeg",
+    "static/media/Bogota.jpg": "/voyagesid/static/media/Bogota.c6e2c680.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
-    "static/media/Vitoria.jpeg": "/voyagesid/static/media/Vitoria.b4e4eea7.jpeg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/goiania2.jpeg": "/voyagesid/static/media/goiania2.a0fbe963.jpeg",
-    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
+    "static/media/copa.png": "/voyagesid/static/media/copa.9c8b18bc.png",
+    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
+    "static/media/tap.png": "/voyagesid/static/media/tap.4ec53909.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.cddb141c.chunk.js",
-    "static/css/main.7f3f69e0.chunk.css",
-    "static/js/main.78936c5a.chunk.js"
+    "static/js/2.56dd27d3.chunk.js",
+    "static/css/main.79896ad8.chunk.css",
+    "static/js/main.c698b060.chunk.js"
   ]
 }
