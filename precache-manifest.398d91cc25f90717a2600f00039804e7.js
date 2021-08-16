@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a0be1fb589a6268e9c464b53ff20e1a",
+    "revision": "240259cbf7df00328c4512d1f08808ab",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "f8d47bafb29e51785afb",
+    "revision": "8c50c46241a603130070",
     "url": "/voyagesid/static/css/main.79896ad8.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.56dd27d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8d47bafb29e51785afb",
-    "url": "/voyagesid/static/js/main.c698b060.chunk.js"
+    "revision": "8c50c46241a603130070",
+    "url": "/voyagesid/static/js/main.deb36507.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "c8b0b53ce654473967f16843c729a1b2",
-    "url": "/voyagesid/static/media/Barcelona.c8b0b53c.jpeg"
+    "revision": "b939f765888f03de4d53301bfa4c25f7",
+    "url": "/voyagesid/static/media/Latam.b939f765.jpg"
   },
   {
-    "revision": "c6e2c680bcde369756e83baa9f9cbd74",
-    "url": "/voyagesid/static/media/Bogota.c6e2c680.jpg"
+    "revision": "cb61708d9484c151b02d90fe8469e63f",
+    "url": "/voyagesid/static/media/Rome.cb61708d.jpg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/media/beach.8d19350b.jpg"
   },
   {
-    "revision": "9c8b18bcb62dce70acbb763a44d6a3d0",
-    "url": "/voyagesid/static/media/copa.9c8b18bc.png"
+    "revision": "112c1c24621adea1b3ef307ec1a746ea",
+    "url": "/voyagesid/static/media/dublin.112c1c24.jpeg"
   },
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
