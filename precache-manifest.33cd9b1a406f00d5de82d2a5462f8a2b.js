@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5b71839d02eafff3389112128dcbd3f",
+    "revision": "24547fa57f73fe381c00d97b12993e34",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "58cdd524d0827129c3a0",
+    "revision": "933ab32490ed5584daeb",
     "url": "/voyagesid/static/css/main.79896ad8.chunk.css"
   },
   {
@@ -16,28 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.56dd27d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58cdd524d0827129c3a0",
-    "url": "/voyagesid/static/js/main.4a98288a.chunk.js"
+    "revision": "933ab32490ed5584daeb",
+    "url": "/voyagesid/static/js/main.5f3db70d.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "3a426d66ff285f2e3849cbf53b650434",
-    "url": "/voyagesid/static/media/Florianopolis2.3a426d66.jpeg"
+    "revision": "1095834bde56e147090026025bc7d2ec",
+    "url": "/voyagesid/static/media/Istanbul2.1095834b.jpg"
   },
   {
-    "revision": "71d8bb9561cbbfee8249e7cec5f995f8",
-    "url": "/voyagesid/static/media/Gol.71d8bb95.png"
-  },
-  {
-    "revision": "0583d6d9bfb7aaeadc416eadbd1fbd4a",
-    "url": "/voyagesid/static/media/Madrid.0583d6d9.jpg"
+    "revision": "ad59a821cade9766f989e27f2af89805",
+    "url": "/voyagesid/static/media/Paris.ad59a821.jpeg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "4c848ccd5f495e802130a83c0aca029d",
+    "url": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
