@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2a43ffca34903330771457e7cd847bf",
+    "revision": "2543c79a84cc962d5172001d0454a9e1",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "8f6f0df170665954ed45",
+    "revision": "0efdc3fcd711c6828130",
     "url": "/voyagesid/static/css/main.79896ad8.chunk.css"
   },
   {
@@ -16,24 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voyagesid/static/js/2.56dd27d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f6f0df170665954ed45",
-    "url": "/voyagesid/static/js/main.932d98e6.chunk.js"
+    "revision": "0efdc3fcd711c6828130",
+    "url": "/voyagesid/static/js/main.cef5d60b.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "a2afaa3724a897bccd1cf1f89cbf80bd",
-    "url": "/voyagesid/static/media/Brasilia.a2afaa37.jpeg"
+    "revision": "c8b0b53ce654473967f16843c729a1b2",
+    "url": "/voyagesid/static/media/Barcelona.c8b0b53c.jpeg"
   },
   {
-    "revision": "71d8bb9561cbbfee8249e7cec5f995f8",
-    "url": "/voyagesid/static/media/Gol.71d8bb95.png"
+    "revision": "ad59a821cade9766f989e27f2af89805",
+    "url": "/voyagesid/static/media/Paris.ad59a821.jpeg"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "4c848ccd5f495e802130a83c0aca029d",
+    "url": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -50,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f53112799a9b594e2ab4ddd4fd7555c",
     "url": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
-  },
-  {
-    "revision": "9f0ae2e37ecba6e02cdd726ac4f252d3",
-    "url": "/voyagesid/static/media/rome2.9f0ae2e3.jpeg"
   },
   {
     "revision": "4ec5390974ece1d15852c1face1b9281",
