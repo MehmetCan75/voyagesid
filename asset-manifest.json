@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.79896ad8.chunk.css",
-    "main.js": "/voyagesid/static/js/main.b837e298.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.b837e298.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.294badb8.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.294badb8.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.cb995979.chunk.js": "/voyagesid/static/js/2.cb995979.chunk.js",
-    "static/js/2.cb995979.chunk.js.map": "/voyagesid/static/js/2.cb995979.chunk.js.map",
+    "static/js/2.7dd78cfe.chunk.js": "/voyagesid/static/js/2.7dd78cfe.chunk.js",
+    "static/js/2.7dd78cfe.chunk.js.map": "/voyagesid/static/js/2.7dd78cfe.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.a3b9019f1c254a52709b9d6fc91426c9.js": "/voyagesid/precache-manifest.a3b9019f1c254a52709b9d6fc91426c9.js",
+    "precache-manifest.c92ef791a47661aaf892a3471c9c4c2b.js": "/voyagesid/precache-manifest.c92ef791a47661aaf892a3471c9c4c2b.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.79896ad8.chunk.css.map": "/voyagesid/static/css/main.79896ad8.chunk.css.map",
-    "static/js/2.cb995979.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cb995979.chunk.js.LICENSE.txt",
-    "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
-    "static/media/PortoAlegre.jpeg": "/voyagesid/static/media/PortoAlegre.91d3e79c.jpeg",
+    "static/js/2.7dd78cfe.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.7dd78cfe.chunk.js.LICENSE.txt",
+    "static/media/Madrid.jpg": "/voyagesid/static/media/Madrid.0583d6d9.jpg",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/goiania2.jpeg": "/voyagesid/static/media/goiania2.a0fbe963.jpeg",
-    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
+    "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg",
+    "static/media/rome2.jpeg": "/voyagesid/static/media/rome2.9f0ae2e3.jpeg",
+    "static/media/tap.png": "/voyagesid/static/media/tap.4ec53909.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.cb995979.chunk.js",
+    "static/js/2.7dd78cfe.chunk.js",
     "static/css/main.79896ad8.chunk.css",
-    "static/js/main.b837e298.chunk.js"
+    "static/js/main.294badb8.chunk.js"
   ]
 }
