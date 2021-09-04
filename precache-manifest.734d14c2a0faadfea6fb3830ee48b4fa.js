@@ -1,39 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80ab64942c7ffc26dd97de5587be2797",
+    "revision": "68ed366bce5dbbc2e5be4c07a62c414d",
     "url": "/voyagesid/index.html"
   },
   {
-    "revision": "a0fdfe9a7c3611431586",
+    "revision": "81707e5001552af66a65",
     "url": "/voyagesid/static/css/main.79896ad8.chunk.css"
   },
   {
-    "revision": "18190bc3bf1c5a6598ef",
-    "url": "/voyagesid/static/js/2.cb995979.chunk.js"
+    "revision": "ad655ac9a2d71bf8489c",
+    "url": "/voyagesid/static/js/2.56dd27d3.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/voyagesid/static/js/2.cb995979.chunk.js.LICENSE.txt"
+    "url": "/voyagesid/static/js/2.56dd27d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0fdfe9a7c3611431586",
-    "url": "/voyagesid/static/js/main.5401958f.chunk.js"
+    "revision": "81707e5001552af66a65",
+    "url": "/voyagesid/static/js/main.ead38484.chunk.js"
   },
   {
     "revision": "78a09afa3ebe79a73b77",
     "url": "/voyagesid/static/js/runtime-main.e395e0de.js"
   },
   {
-    "revision": "b939f765888f03de4d53301bfa4c25f7",
-    "url": "/voyagesid/static/media/Latam.b939f765.jpg"
+    "revision": "5d3ade557a89ce6ce4e4e056af52520e",
+    "url": "/voyagesid/static/media/BeloHorizonte.5d3ade55.jpeg"
   },
   {
-    "revision": "97680f1ea065962f24b97fa218df48f0",
-    "url": "/voyagesid/static/media/Recife.97680f1e.jpeg"
+    "revision": "71d8bb9561cbbfee8249e7cec5f995f8",
+    "url": "/voyagesid/static/media/Gol.71d8bb95.png"
   },
   {
     "revision": "bd7e2a398aa88baa165fdc744327a758",
     "url": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg"
+  },
+  {
+    "revision": "4c848ccd5f495e802130a83c0aca029d",
+    "url": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg"
+  },
+  {
+    "revision": "abe8b91b0860f543b0dbb401ccf23a6a",
+    "url": "/voyagesid/static/media/athenes.abe8b91b.jpg"
   },
   {
     "revision": "8d19350bc8f3e657a170e6419e5c823e",
@@ -42,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26631a4043b14dff84180bdf51c3cacb",
     "url": "/voyagesid/static/media/instagram (1).26631a40.png"
-  },
-  {
-    "revision": "8137a4611defc4836ccb314ade30851c",
-    "url": "/voyagesid/static/media/joaopessoa.8137a461.jpeg"
   },
   {
     "revision": "465ea85a5aa566cce2a81d31f7506ede",

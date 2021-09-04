@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/voyagesid/static/css/main.79896ad8.chunk.css",
-    "main.js": "/voyagesid/static/js/main.5401958f.chunk.js",
-    "main.js.map": "/voyagesid/static/js/main.5401958f.chunk.js.map",
+    "main.js": "/voyagesid/static/js/main.ead38484.chunk.js",
+    "main.js.map": "/voyagesid/static/js/main.ead38484.chunk.js.map",
     "runtime-main.js": "/voyagesid/static/js/runtime-main.e395e0de.js",
     "runtime-main.js.map": "/voyagesid/static/js/runtime-main.e395e0de.js.map",
-    "static/js/2.cb995979.chunk.js": "/voyagesid/static/js/2.cb995979.chunk.js",
-    "static/js/2.cb995979.chunk.js.map": "/voyagesid/static/js/2.cb995979.chunk.js.map",
+    "static/js/2.56dd27d3.chunk.js": "/voyagesid/static/js/2.56dd27d3.chunk.js",
+    "static/js/2.56dd27d3.chunk.js.map": "/voyagesid/static/js/2.56dd27d3.chunk.js.map",
     "index.html": "/voyagesid/index.html",
-    "precache-manifest.f89769d33edebcfe32c6d3add7c2cfeb.js": "/voyagesid/precache-manifest.f89769d33edebcfe32c6d3add7c2cfeb.js",
+    "precache-manifest.734d14c2a0faadfea6fb3830ee48b4fa.js": "/voyagesid/precache-manifest.734d14c2a0faadfea6fb3830ee48b4fa.js",
     "service-worker.js": "/voyagesid/service-worker.js",
     "static/css/main.79896ad8.chunk.css.map": "/voyagesid/static/css/main.79896ad8.chunk.css.map",
-    "static/js/2.cb995979.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.cb995979.chunk.js.LICENSE.txt",
-    "static/media/Latam.jpg": "/voyagesid/static/media/Latam.b939f765.jpg",
-    "static/media/Recife.jpeg": "/voyagesid/static/media/Recife.97680f1e.jpeg",
+    "static/js/2.56dd27d3.chunk.js.LICENSE.txt": "/voyagesid/static/js/2.56dd27d3.chunk.js.LICENSE.txt",
+    "static/media/BeloHorizonte.jpeg": "/voyagesid/static/media/BeloHorizonte.5d3ade55.jpeg",
+    "static/media/Gol.png": "/voyagesid/static/media/Gol.71d8bb95.png",
     "static/media/Modal.css": "/voyagesid/static/media/Stockholm.bd7e2a39.jpg",
+    "static/media/TurkishAirlines.jpg": "/voyagesid/static/media/TurkishAirlines.4c848ccd.jpg",
+    "static/media/athenes.jpg": "/voyagesid/static/media/athenes.abe8b91b.jpg",
     "static/media/MenuCities.css": "/voyagesid/static/media/photo-1487349384428-12b47aca925e.465ea85a.jpeg",
-    "static/media/joaopessoa.jpeg": "/voyagesid/static/media/joaopessoa.8137a461.jpeg",
     "static/media/Header.css": "/voyagesid/static/media/photo-1549849171-09f62448709e.0f531127.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e395e0de.js",
-    "static/js/2.cb995979.chunk.js",
+    "static/js/2.56dd27d3.chunk.js",
     "static/css/main.79896ad8.chunk.css",
-    "static/js/main.5401958f.chunk.js"
+    "static/js/main.ead38484.chunk.js"
   ]
 }
